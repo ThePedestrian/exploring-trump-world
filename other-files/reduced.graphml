@@ -1,0 +1,3904 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="sources" attr.type="string" for="edge" id="d2"/>
+<key attr.name="connection" attr.type="string" for="edge" id="d1"/>
+<key attr.name="type" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="ANDREW GRAVES">
+  <data key="d0">Person</data>
+</node>
+<node id="PAUL TELLER">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID S. CORDISH">
+  <data key="d0">Person</data>
+</node>
+<node id="CUI TIANKAI">
+  <data key="d0">Person</data>
+</node>
+<node id="NIR EREL MARGALIT">
+  <data key="d0">Person</data>
+</node>
+<node id="HOPE HICKS">
+  <data key="d0">Person</data>
+</node>
+<node id="ANDREW D. KOENIG">
+  <data key="d0">Person</data>
+</node>
+<node id="JOEL HIRSCH">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSEPH LAI">
+  <data key="d0">Person</data>
+</node>
+<node id="KENNETH M. DUBERSTEIN">
+  <data key="d0">Person</data>
+</node>
+<node id="CATHY SOLOMON">
+  <data key="d0">Person</data>
+</node>
+<node id="DEBBIE BERMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="NOEL FRANCISCO">
+  <data key="d0">Person</data>
+</node>
+<node id="CHARLES G. KOCH">
+  <data key="d0">Person</data>
+</node>
+<node id="CYNTHIA HIRSCH">
+  <data key="d0">Person</data>
+</node>
+<node id="NIKKI HALEY">
+  <data key="d0">Person</data>
+</node>
+<node id="CHRISTIE TODD WHITMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="YURI MILNER">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN DESTEFANO">
+  <data key="d0">Person</data>
+</node>
+<node id="CHLOE MURDOCH">
+  <data key="d0">Person</data>
+</node>
+<node id="FREDERICK RUSTMANN">
+  <data key="d0">Person</data>
+</node>
+<node id="JEFFREY WEISS">
+  <data key="d0">Person</data>
+</node>
+<node id="SCOTT GAST">
+  <data key="d0">Person</data>
+</node>
+<node id="MYRNA HAFT">
+  <data key="d0">Person</data>
+</node>
+<node id="BENY STEINMETZ">
+  <data key="d0">Person</data>
+</node>
+<node id="LEE EICKMEYER">
+  <data key="d0">Person</data>
+</node>
+<node id="BRAD PARSCALE">
+  <data key="d0">Person</data>
+</node>
+<node id="STEPHEN VADEN">
+  <data key="d0">Person</data>
+</node>
+<node id="CARLOS DIAZ-ROSILLO">
+  <data key="d0">Person</data>
+</node>
+<node id="MATTHEW CALAMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="SHERI A. DILLON">
+  <data key="d0">Person</data>
+</node>
+<node id="PETER THIEL">
+  <data key="d0">Person</data>
+</node>
+<node id="KENNETH W. O'KEEFE">
+  <data key="d0">Person</data>
+</node>
+<node id="MINA PATEL">
+  <data key="d0">Person</data>
+</node>
+<node id="KAZUNORI OHTSUKA">
+  <data key="d0">Person</data>
+</node>
+<node id="KEITH SCHILLER">
+  <data key="d0">Person</data>
+</node>
+<node id="JONATHAN MECHANIC">
+  <data key="d0">Person</data>
+</node>
+<node id="SERHIY LYOVOCHKIN">
+  <data key="d0">Person</data>
+</node>
+<node id="LLOYD MILLER">
+  <data key="d0">Person</data>
+</node>
+<node id="MARYANNE TRUMP BARRY">
+  <data key="d0">Person</data>
+</node>
+<node id="JOEL I. KLEIN">
+  <data key="d0">Person</data>
+</node>
+<node id="ZIYA MAMMADOV">
+  <data key="d0">Person</data>
+</node>
+<node id="GARY COHN">
+  <data key="d0">Person</data>
+</node>
+<node id="WILLIAM OBERNDORF">
+  <data key="d0">Person</data>
+</node>
+<node id="JILL MARTIN">
+  <data key="d0">Person</data>
+</node>
+<node id="ANTHONY SCARAMUCCI">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT A. IGER">
+  <data key="d0">Person</data>
+</node>
+<node id="ALEXANDER GRAY">
+  <data key="d0">Person</data>
+</node>
+<node id="BRUCE E. TOLL">
+  <data key="d0">Person</data>
+</node>
+<node id="CESAR CONDE">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN DELL SAUTER">
+  <data key="d0">Person</data>
+</node>
+<node id="REBEKAH MERCER">
+  <data key="d0">Person</data>
+</node>
+<node id="RUDY GIULIANI">
+  <data key="d0">Person</data>
+</node>
+<node id="ALAN HAMMER">
+  <data key="d0">Person</data>
+</node>
+<node id="MARY T. BARRA">
+  <data key="d0">Person</data>
+</node>
+<node id="MARK HOLLOWAY">
+  <data key="d0">Person</data>
+</node>
+<node id="DOUGLAS DURBANO">
+  <data key="d0">Person</data>
+</node>
+<node id="RUPERT MURDOCH">
+  <data key="d0">Person</data>
+</node>
+<node id="SALLY PRIEBUS">
+  <data key="d0">Person</data>
+</node>
+<node id="SCOTT WALKER">
+  <data key="d0">Person</data>
+</node>
+<node id="ZHUO RAN">
+  <data key="d0">Person</data>
+</node>
+<node id="MARK STEVEN KIRK">
+  <data key="d0">Person</data>
+</node>
+<node id="MITCHELL QUAIN">
+  <data key="d0">Person</data>
+</node>
+<node id="JULIAN ASSANGE">
+  <data key="d0">Person</data>
+</node>
+<node id="JILL GILES">
+  <data key="d0">Person</data>
+</node>
+<node id="ALBERT ROSS SR.">
+  <data key="d0">Person</data>
+</node>
+<node id="DARRYLE BURNHAM">
+  <data key="d0">Person</data>
+</node>
+<node id="ROD BLUM">
+  <data key="d0">Person</data>
+</node>
+<node id="SEBASTIAN GORKA">
+  <data key="d0">Person</data>
+</node>
+<node id="LI KA-SHING">
+  <data key="d0">Person</data>
+</node>
+<node id="CHARLES A. MOHLER">
+  <data key="d0">Person</data>
+</node>
+<node id="SHAUN CAIN">
+  <data key="d0">Person</data>
+</node>
+<node id="RICHARD MARVIN &quot;DICK&quot; DEVOS JR.">
+  <data key="d0">Person</data>
+</node>
+<node id="JONATHAN SPITALNY">
+  <data key="d0">Person</data>
+</node>
+<node id="MIKE PENCE">
+  <data key="d0">Person</data>
+</node>
+<node id="SHARON QUAIN">
+  <data key="d0">Person</data>
+</node>
+<node id="DEANNE HUTCHINSON">
+  <data key="d0">Person</data>
+</node>
+<node id="STRAUSS ZELNICK">
+  <data key="d0">Person</data>
+</node>
+<node id="FABIEN BAUSSART">
+  <data key="d0">Person</data>
+</node>
+<node id="MARCO RUBIO">
+  <data key="d0">Person</data>
+</node>
+<node id="LINDA BEAN">
+  <data key="d0">Person</data>
+</node>
+<node id="YOSHIO MATSUURA">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN FLEMING">
+  <data key="d0">Person</data>
+</node>
+<node id="EDWARD M. BURKE">
+  <data key="d0">Person</data>
+</node>
+<node id="JUDITH WEISS">
+  <data key="d0">Person</data>
+</node>
+<node id="THOMAS JOSEPH ROONEY">
+  <data key="d0">Person</data>
+</node>
+<node id="CINDY SITES">
+  <data key="d0">Person</data>
+</node>
+<node id="THOMAS EDWIN JUNIOR DUPAR">
+  <data key="d0">Person</data>
+</node>
+<node id="ANTHONY W. PARKER">
+  <data key="d0">Person</data>
+</node>
+<node id="BRENDA AXELROD">
+  <data key="d0">Person</data>
+</node>
+<node id="TONY TIAH THEE KIAN">
+  <data key="d0">Person</data>
+</node>
+<node id="STEVEN MNUCHIN">
+  <data key="d0">Person</data>
+</node>
+<node id="RICARDO HAZOURY">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN COLAMARINO">
+  <data key="d0">Person</data>
+</node>
+<node id="RICHARD SALTZMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="BENJAMIN NETANYAHU">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN CORYN">
+  <data key="d0">Person</data>
+</node>
+<node id="RICHARD LEFRAK">
+  <data key="d0">Person</data>
+</node>
+<node id="SIMON ISAACS">
+  <data key="d0">Person</data>
+</node>
+<node id="STEPHEN MUNISTERI">
+  <data key="d0">Person</data>
+</node>
+<node id="JAMES SCHULTZ">
+  <data key="d0">Person</data>
+</node>
+<node id="NICK AYERS">
+  <data key="d0">Person</data>
+</node>
+<node id="STEVE KING">
+  <data key="d0">Person</data>
+</node>
+<node id="TONY CHARLES SOLE">
+  <data key="d0">Person</data>
+</node>
+<node id="GERRIT LANSING">
+  <data key="d0">Person</data>
+</node>
+<node id="JACK MA">
+  <data key="d0">Person</data>
+</node>
+<node id="ERIC TRUMP">
+  <data key="d0">Person</data>
+</node>
+<node id="CINDY SIMMS">
+  <data key="d0">Person</data>
+</node>
+<node id="RICHARD GOETTLICH">
+  <data key="d0">Person</data>
+</node>
+<node id="DON MCGAHN">
+  <data key="d0">Person</data>
+</node>
+<node id="PATRICIA LEVESQUE">
+  <data key="d0">Person</data>
+</node>
+<node id="ARRON BANKS">
+  <data key="d0">Person</data>
+</node>
+<node id="MARC LOTTER">
+  <data key="d0">Person</data>
+</node>
+<node id="ANDY PUZDER">
+  <data key="d0">Person</data>
+</node>
+<node id="HAROLD G. HAMM">
+  <data key="d0">Person</data>
+</node>
+<node id="JORGE LEIS">
+  <data key="d0">Person</data>
+</node>
+<node id="CHARLES COLLETTA">
+  <data key="d0">Person</data>
+</node>
+<node id="JESSICA DITTO">
+  <data key="d0">Person</data>
+</node>
+<node id="KIMIO NAKAMURA">
+  <data key="d0">Person</data>
+</node>
+<node id="MARC SHORT">
+  <data key="d0">Person</data>
+</node>
+<node id="SERGEY I. KISLYAK">
+  <data key="d0">Person</data>
+</node>
+<node id="RANDI LANE">
+  <data key="d0">Person</data>
+</node>
+<node id="CATHERINE BRAY GRIFFITH">
+  <data key="d0">Person</data>
+</node>
+<node id="RAZ STEINMETZ">
+  <data key="d0">Person</data>
+</node>
+<node id="JAN SCHECK">
+  <data key="d0">Person</data>
+</node>
+<node id="IAIN MAURY CAMPBELL MEIKLEJOHN">
+  <data key="d0">Person</data>
+</node>
+<node id="BERND LEMBCKE">
+  <data key="d0">Person</data>
+</node>
+<node id="JT FOXX">
+  <data key="d0">Person</data>
+</node>
+<node id="THOMAS HUTCHINSON">
+  <data key="d0">Person</data>
+</node>
+<node id="ELVIRA KUDRYASHOVA">
+  <data key="d0">Person</data>
+</node>
+<node id="IRA SCHNEIDER">
+  <data key="d0">Person</data>
+</node>
+<node id="CHRISTINE CHAO">
+  <data key="d0">Person</data>
+</node>
+<node id="GEORGE T. CONWAY III">
+  <data key="d0">Person</data>
+</node>
+<node id="CHARLES R. SCHWAB">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN TALBOTT">
+  <data key="d0">Person</data>
+</node>
+<node id="GARY PALMER">
+  <data key="d0">Person</data>
+</node>
+<node id="ALEX SHNAIDER">
+  <data key="d0">Person</data>
+</node>
+<node id="STEWART SELBIE">
+  <data key="d0">Person</data>
+</node>
+<node id="VICTOR HEGGELMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="STEPHEN BANNON">
+  <data key="d0">Person</data>
+</node>
+<node id="LYNNE M PATTON">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN GRAY">
+  <data key="d0">Person</data>
+</node>
+<node id="CARLOS ARREDONDO">
+  <data key="d0">Person</data>
+</node>
+<node id="EDWARD LAMPERT">
+  <data key="d0">Person</data>
+</node>
+<node id="MARTY OBST">
+  <data key="d0">Person</data>
+</node>
+<node id="JAMES S.C. CHAO">
+  <data key="d0">Person</data>
+</node>
+<node id="WALTER J. &quot;JAY&quot; CLAYTON III">
+  <data key="d0">Person</data>
+</node>
+<node id="MIKIYASU KAYANUMA">
+  <data key="d0">Person</data>
+</node>
+<node id="ALEXANDER NIX">
+  <data key="d0">Person</data>
+</node>
+<node id="ROGER KHAFIF">
+  <data key="d0">Person</data>
+</node>
+<node id="PAUL WINFREE">
+  <data key="d0">Person</data>
+</node>
+<node id="BERNIE MARCUS">
+  <data key="d0">Person</data>
+</node>
+<node id="THOMAS PETERFFY">
+  <data key="d0">Person</data>
+</node>
+<node id="YURY ZAYTSEV">
+  <data key="d0">Person</data>
+</node>
+<node id="JACK WEISSELBERG">
+  <data key="d0">Person</data>
+</node>
+<node id="XI JINPING">
+  <data key="d0">Person</data>
+</node>
+<node id="NOELLE NIKPOUR">
+  <data key="d0">Person</data>
+</node>
+<node id="BORIS EPSHTEYN">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN GORE">
+  <data key="d0">Person</data>
+</node>
+<node id="STEVE TATHAM">
+  <data key="d0">Person</data>
+</node>
+<node id="TOSHIO KABAYASHI">
+  <data key="d0">Person</data>
+</node>
+<node id="BETHANY SCULLY">
+  <data key="d0">Person</data>
+</node>
+<node id="IKE PERLMUTTER">
+  <data key="d0">Person</data>
+</node>
+<node id="CHARLES KUSHNER">
+  <data key="d0">Person</data>
+</node>
+<node id="BOB DOLE">
+  <data key="d0">Person</data>
+</node>
+<node id="STEVEN ROTH">
+  <data key="d0">Person</data>
+</node>
+<node id="ANAR MAMMADOV">
+  <data key="d0">Person</data>
+</node>
+<node id="VIKTOR KHRAPUNOV">
+  <data key="d0">Person</data>
+</node>
+<node id="RECEP TAYYIP ERDOGAN">
+  <data key="d0">Person</data>
+</node>
+<node id="BEN CARSON">
+  <data key="d0">Person</data>
+</node>
+<node id="DMYTRO FIRTASH">
+  <data key="d0">Person</data>
+</node>
+<node id="PAM MULVANEY">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT LEE SCOTT">
+  <data key="d0">Person</data>
+</node>
+<node id="ALAN GARTEN">
+  <data key="d0">Person</data>
+</node>
+<node id="URS LEDERMANN">
+  <data key="d0">Person</data>
+</node>
+<node id="GEORGE GIGICOS">
+  <data key="d0">Person</data>
+</node>
+<node id="HUSSAIN ALI SAJWANI">
+  <data key="d0">Person</data>
+</node>
+<node id="MITCH MCCONNELL">
+  <data key="d0">Person</data>
+</node>
+<node id="OMAROSÉ ONEE MANIGAULT">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN SHALAM">
+  <data key="d0">Person</data>
+</node>
+<node id="MICK MULVANEY">
+  <data key="d0">Person</data>
+</node>
+<node id="FRANK TORRICELLI">
+  <data key="d0">Person</data>
+</node>
+<node id="SUSAN KAPLAN">
+  <data key="d0">Person</data>
+</node>
+<node id="MADELEINE WESTERHOUT">
+  <data key="d0">Person</data>
+</node>
+<node id="EDUARD SHIFRIN">
+  <data key="d0">Person</data>
+</node>
+<node id="JENNIFER MERCER">
+  <data key="d0">Person</data>
+</node>
+<node id="RONALD C. LIEBERMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="MARK SCHECK">
+  <data key="d0">Person</data>
+</node>
+<node id="SEAN CAIRNCROSS">
+  <data key="d0">Person</data>
+</node>
+<node id="ANNIE DONALDSON">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSEPH HAGIN">
+  <data key="d0">Person</data>
+</node>
+<node id="MARTIN JAJAN">
+  <data key="d0">Person</data>
+</node>
+<node id="STEPHEN A. FEINBERG">
+  <data key="d0">Person</data>
+</node>
+<node id="TOM PRICE">
+  <data key="d0">Person</data>
+</node>
+<node id="GREGORY A. MOERSCHEL">
+  <data key="d0">Person</data>
+</node>
+<node id="DANIEL M. MCFADDEN">
+  <data key="d0">Person</data>
+</node>
+<node id="ELTON MAMMADOV">
+  <data key="d0">Person</data>
+</node>
+<node id="GREG KATSAS">
+  <data key="d0">Person</data>
+</node>
+<node id="THOMAS ULRICH BRECHBUHL">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN SITES">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSE E.B. ANTONIO">
+  <data key="d0">Person</data>
+</node>
+<node id="RHONA GRAFF RICCIO">
+  <data key="d0">Person</data>
+</node>
+<node id="BERNARD R. DIAMOND">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSEPH MEYER">
+  <data key="d0">Person</data>
+</node>
+<node id="CONDOLEEZA RICE">
+  <data key="d0">Person</data>
+</node>
+<node id="RICK PERRY">
+  <data key="d0">Person</data>
+</node>
+<node id="JUSTIN CLARK">
+  <data key="d0">Person</data>
+</node>
+<node id="LINDSAY WALTERS">
+  <data key="d0">Person</data>
+</node>
+<node id="NICOLAS SARKOZY">
+  <data key="d0">Person</data>
+</node>
+<node id="VINCE HALEY">
+  <data key="d0">Person</data>
+</node>
+<node id="FELIPE YARYURA">
+  <data key="d0">Person</data>
+</node>
+<node id="MOISÉS YELLATI">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID M. FRIEDMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="GEORGE SOROS">
+  <data key="d0">Person</data>
+</node>
+<node id="JAMES MATTIS">
+  <data key="d0">Person</data>
+</node>
+<node id="ARLENE LEVINE">
+  <data key="d0">Person</data>
+</node>
+<node id="ROSS WORTHINGTON">
+  <data key="d0">Person</data>
+</node>
+<node id="ARTHUR G. COHEN">
+  <data key="d0">Person</data>
+</node>
+<node id="ELIZABETH BILNEY">
+  <data key="d0">Person</data>
+</node>
+<node id="BARBAROS MURATOGL">
+  <data key="d0">Person</data>
+</node>
+<node id="HAL GOLDMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="CHARLES P. REISS">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT KRAFT">
+  <data key="d0">Person</data>
+</node>
+<node id="KIRILL DMITRIEV">
+  <data key="d0">Person</data>
+</node>
+<node id="MARK HERBERT">
+  <data key="d0">Person</data>
+</node>
+<node id="KALPESH MEHTA">
+  <data key="d0">Person</data>
+</node>
+<node id="Y. DAVID SCHARF">
+  <data key="d0">Person</data>
+</node>
+<node id="TEVFIK ARIF">
+  <data key="d0">Person</data>
+</node>
+<node id="AYDIN DOGAN">
+  <data key="d0">Person</data>
+</node>
+<node id="E.J. RIDINGS">
+  <data key="d0">Person</data>
+</node>
+<node id="GEORGE SORIAL">
+  <data key="d0">Person</data>
+</node>
+<node id="ANDREW JOBLON">
+  <data key="d0">Person</data>
+</node>
+<node id="SONJA TALESNIK">
+  <data key="d0">Person</data>
+</node>
+<node id="KELLY KEELING HAHN">
+  <data key="d0">Person</data>
+</node>
+<node id="PETER NAVARRO">
+  <data key="d0">Person</data>
+</node>
+<node id="DARA ORBACH">
+  <data key="d0">Person</data>
+</node>
+<node id="KATHLEEN TROIA MCFARLAND">
+  <data key="d0">Person</data>
+</node>
+<node id="RYAN JARMULA">
+  <data key="d0">Person</data>
+</node>
+<node id="GARY K. NG">
+  <data key="d0">Person</data>
+</node>
+<node id="MILES BERGER">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL D. COHEN">
+  <data key="d0">Person</data>
+</node>
+<node id="ALEXANDER MCMILLAN">
+  <data key="d0">Person</data>
+</node>
+<node id="WENDI DENG MURDOCH">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT KUNOLD, JR.">
+  <data key="d0">Person</data>
+</node>
+<node id="AUDREY SCHWARTZ">
+  <data key="d0">Person</data>
+</node>
+<node id="SUSAN FALK">
+  <data key="d0">Person</data>
+</node>
+<node id="LAWRENCE J. MONE">
+  <data key="d0">Person</data>
+</node>
+<node id="VLADIMIR POTANIN">
+  <data key="d0">Person</data>
+</node>
+<node id="GINNI ROMETTY">
+  <data key="d0">Person</data>
+</node>
+<node id="L. BRENT BOZELL">
+  <data key="d0">Person</data>
+</node>
+<node id="ROGER J. STONE, JR.">
+  <data key="d0">Person</data>
+</node>
+<node id="STEPHANIE GRISHAM">
+  <data key="d0">Person</data>
+</node>
+<node id="SERGEI MILLIAN">
+  <data key="d0">Person</data>
+</node>
+<node id="RONNA MCDANIEL">
+  <data key="d0">Person</data>
+</node>
+<node id="ATUL CHORDIA">
+  <data key="d0">Person</data>
+</node>
+<node id="ANDREW WEISS">
+  <data key="d0">Person</data>
+</node>
+<node id="ABE WALLACH">
+  <data key="d0">Person</data>
+</node>
+<node id="LEV LEVIEV">
+  <data key="d0">Person</data>
+</node>
+<node id="MARTIN SORRELL">
+  <data key="d0">Person</data>
+</node>
+<node id="CARLIN AXELROD">
+  <data key="d0">Person</data>
+</node>
+<node id="SEAN SPICER">
+  <data key="d0">Person</data>
+</node>
+<node id="ASSI AREV">
+  <data key="d0">Person</data>
+</node>
+<node id="MANGAL PRABHAT LODHA">
+  <data key="d0">Person</data>
+</node>
+<node id="ERIC CANTOR">
+  <data key="d0">Person</data>
+</node>
+<node id="ASHER ABEHSERA">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSEPH KELLOGG">
+  <data key="d0">Person</data>
+</node>
+<node id="TODD CHRISTOPHER YOUNG">
+  <data key="d0">Person</data>
+</node>
+<node id="DAN SCAVINO">
+  <data key="d0">Person</data>
+</node>
+<node id="RONALD HAROLD JOHNSON">
+  <data key="d0">Person</data>
+</node>
+<node id="BRIAN BULATAO">
+  <data key="d0">Person</data>
+</node>
+<node id="EMILY CORNELL">
+  <data key="d0">Person</data>
+</node>
+<node id="JEREMY KATZ">
+  <data key="d0">Person</data>
+</node>
+<node id="SERGEY KISLYAK">
+  <data key="d0">Person</data>
+</node>
+<node id="ISABELLE HERTZ">
+  <data key="d0">Person</data>
+</node>
+<node id="F. PHILIP HANDY">
+  <data key="d0">Person</data>
+</node>
+<node id="CAROLYN SAKOLSKY">
+  <data key="d0">Person</data>
+</node>
+<node id="SETYA NOVANTO">
+  <data key="d0">Person</data>
+</node>
+<node id="REX TILLERSON">
+  <data key="d0">Person</data>
+</node>
+<node id="ARAS AGALAROV">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID THOMAS SPENCER">
+  <data key="d0">Person</data>
+</node>
+<node id="MARK BENNETT TROY">
+  <data key="d0">Person</data>
+</node>
+<node id="CHRISTINE CICCONE">
+  <data key="d0">Person</data>
+</node>
+<node id="NEWT GINGRICH">
+  <data key="d0">Person</data>
+</node>
+<node id="TRICIA HOLLOWAY">
+  <data key="d0">Person</data>
+</node>
+<node id="CAROLE HANKIN">
+  <data key="d0">Person</data>
+</node>
+<node id="CARTER PAGE">
+  <data key="d0">Person</data>
+</node>
+<node id="KATRINA PIERSON">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL KOVNER">
+  <data key="d0">Person</data>
+</node>
+<node id="TATSUYA MATSUURA">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL P. MELLON">
+  <data key="d0">Person</data>
+</node>
+<node id="RAND PAUL">
+  <data key="d0">Person</data>
+</node>
+<node id="RONALD ROBINSON">
+  <data key="d0">Person</data>
+</node>
+<node id="JARROD P. AGEN">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID BOSSIE">
+  <data key="d0">Person</data>
+</node>
+<node id="LAURENT MORALI">
+  <data key="d0">Person</data>
+</node>
+<node id="CARL C. ICAHN">
+  <data key="d0">Person</data>
+</node>
+<node id="DONALD J. TRUMP">
+  <data key="d0">Person</data>
+</node>
+<node id="JAMES SHERK">
+  <data key="d0">Person</data>
+</node>
+<node id="DIANE LOKEY FARB">
+  <data key="d0">Person</data>
+</node>
+<node id="MARK BURNETT">
+  <data key="d0">Person</data>
+</node>
+<node id="GLENN KAPLAN">
+  <data key="d0">Person</data>
+</node>
+<node id="GARY TALARICO">
+  <data key="d0">Person</data>
+</node>
+<node id="ROMA DOWNEY">
+  <data key="d0">Person</data>
+</node>
+<node id="THEODORE BERMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="W.E.“ED” BOSARGE">
+  <data key="d0">Person</data>
+</node>
+<node id="WILBUR ROSS">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN CALVIN FLEMING, JR.">
+  <data key="d0">Person</data>
+</node>
+<node id="RICK DAVIS">
+  <data key="d0">Person</data>
+</node>
+<node id="SHLOMO MEICHOR">
+  <data key="d0">Person</data>
+</node>
+<node id="JOE HAGIN">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHELLE BACHMANN">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN KYL">
+  <data key="d0">Person</data>
+</node>
+<node id="BRIAN ASIDMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="YOUSEF AL-OTAIBA">
+  <data key="d0">Person</data>
+</node>
+<node id="HARVEY KROIZ">
+  <data key="d0">Person</data>
+</node>
+<node id="JANET WEINER">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN C. PITTENGER">
+  <data key="d0">Person</data>
+</node>
+<node id="JULIAN DAVID WHEATLAND">
+  <data key="d0">Person</data>
+</node>
+<node id="ABDUL WAHID AL ULAMA">
+  <data key="d0">Person</data>
+</node>
+<node id="CHRISTINE FOTI">
+  <data key="d0">Person</data>
+</node>
+<node id="LINDA TALARICO">
+  <data key="d0">Person</data>
+</node>
+<node id="JAY WILSON HAAS, JR.">
+  <data key="d0">Person</data>
+</node>
+<node id="KEN KURSON">
+  <data key="d0">Person</data>
+</node>
+<node id="CHRIS CHRISTIE">
+  <data key="d0">Person</data>
+</node>
+<node id="AVRAHM BERKOWITZ">
+  <data key="d0">Person</data>
+</node>
+<node id="BARRY BENNETT">
+  <data key="d0">Person</data>
+</node>
+<node id="JANE SHALAM">
+  <data key="d0">Person</data>
+</node>
+<node id="PATRICK CADDELL">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSE ROBERTO &quot;ROBBIE&quot; ANTONIO">
+  <data key="d0">Person</data>
+</node>
+<node id="GERALD HERTZ">
+  <data key="d0">Person</data>
+</node>
+<node id="TAMIR SAPIR">
+  <data key="d0">Person</data>
+</node>
+<node id="ILYAS KHRAPUNOV">
+  <data key="d0">Person</data>
+</node>
+<node id="BILL MCGINLEY">
+  <data key="d0">Person</data>
+</node>
+<node id="BARBARA KROIZ">
+  <data key="d0">Person</data>
+</node>
+<node id="ALAN JOHN ROGERS">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT FALK">
+  <data key="d0">Person</data>
+</node>
+<node id="THOMAS J BASILE">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSEPH HANKIN">
+  <data key="d0">Person</data>
+</node>
+<node id="TIMOTHY PATAKI">
+  <data key="d0">Person</data>
+</node>
+<node id="FELIX SATER">
+  <data key="d0">Person</data>
+</node>
+<node id="SUSAN POMPEO">
+  <data key="d0">Person</data>
+</node>
+<node id="VIKTOR TKACHUK">
+  <data key="d0">Person</data>
+</node>
+<node id="RICK DEARBORN">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSEPH SITT">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT MERCER">
+  <data key="d0">Person</data>
+</node>
+<node id="JEAN DOYEN DE MONTAILLOU">
+  <data key="d0">Person</data>
+</node>
+<node id="TUCKER CARLSON">
+  <data key="d0">Person</data>
+</node>
+<node id="JAMES UTHMEIER">
+  <data key="d0">Person</data>
+</node>
+<node id="MARI ARREDONDO">
+  <data key="d0">Person</data>
+</node>
+<node id="SARAH MAKIN">
+  <data key="d0">Person</data>
+</node>
+<node id="LUCIUS JOSEPH RICCIO">
+  <data key="d0">Person</data>
+</node>
+<node id="KEYUMARS DARVISHI">
+  <data key="d0">Person</data>
+</node>
+<node id="VICTOR PINCHUK">
+  <data key="d0">Person</data>
+</node>
+<node id="FRANK FOTI">
+  <data key="d0">Person</data>
+</node>
+<node id="JUSTIN WENIGER">
+  <data key="d0">Person</data>
+</node>
+<node id="DIANNA BALABON">
+  <data key="d0">Person</data>
+</node>
+<node id="CHARLES R. BLACK, JR.">
+  <data key="d0">Person</data>
+</node>
+<node id="RAJ SHAH">
+  <data key="d0">Person</data>
+</node>
+<node id="SCOTT MILLER">
+  <data key="d0">Person</data>
+</node>
+<node id="CLIFFORD LANE">
+  <data key="d0">Person</data>
+</node>
+<node id="PHILLIP NEUMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="BLAKE DELAPLANE">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID BRUCE VITTER">
+  <data key="d0">Person</data>
+</node>
+<node id="STEVEN LEVINE">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID J. COONEY">
+  <data key="d0">Person</data>
+</node>
+<node id="JAMIE DIMON">
+  <data key="d0">Person</data>
+</node>
+<node id="SERYL KUSHNER">
+  <data key="d0">Person</data>
+</node>
+<node id="SUSAN MILLER">
+  <data key="d0">Person</data>
+</node>
+<node id="LAWRENCE ROLNICK">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL BURNS NEILSON">
+  <data key="d0">Person</data>
+</node>
+<node id="RICHARD BRUDNER">
+  <data key="d0">Person</data>
+</node>
+<node id="BRIAN BAUDREAU">
+  <data key="d0">Person</data>
+</node>
+<node id="PHILIP NICOZISIS">
+  <data key="d0">Person</data>
+</node>
+<node id="SYLVAIN MIROCHNIKOFF">
+  <data key="d0">Person</data>
+</node>
+<node id="BOBBY BURCHFIELD">
+  <data key="d0">Person</data>
+</node>
+<node id="TIM MOL">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT BERG">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL PETER WALE">
+  <data key="d0">Person</data>
+</node>
+<node id="KATHY CARR">
+  <data key="d0">Person</data>
+</node>
+<node id="BOB PERKINS">
+  <data key="d0">Person</data>
+</node>
+<node id="ERIC HOLCOMB">
+  <data key="d0">Person</data>
+</node>
+<node id="THOMAS E. WHEELER">
+  <data key="d0">Person</data>
+</node>
+<node id="LARRY GLICK">
+  <data key="d0">Person</data>
+</node>
+<node id="THOMAS PYLE">
+  <data key="d0">Person</data>
+</node>
+<node id="KIRK WICKSTROM">
+  <data key="d0">Person</data>
+</node>
+<node id="ANDELIZ CASTILLO">
+  <data key="d0">Person</data>
+</node>
+<node id="TIAH JOO KIM">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN EISENBERG">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL MURRAY">
+  <data key="d0">Person</data>
+</node>
+<node id="KENNETH JOHN MILLAR">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL J. ELLIS">
+  <data key="d0">Person</data>
+</node>
+<node id="CAROL GLAZER">
+  <data key="d0">Person</data>
+</node>
+<node id="KATHLEEN FUCHS">
+  <data key="d0">Person</data>
+</node>
+<node id="DEBORAH ROBINSON">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSEPH I. LIEBERMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="RYAN ADDISON WILLIAMS">
+  <data key="d0">Person</data>
+</node>
+<node id="DONALD TRUMP JR.">
+  <data key="d0">Person</data>
+</node>
+<node id="EDWIN MEESE">
+  <data key="d0">Person</data>
+</node>
+<node id="ANDREA SCHLOSSBERG">
+  <data key="d0">Person</data>
+</node>
+<node id="ANDREW BROWN">
+  <data key="d0">Person</data>
+</node>
+<node id="ABDUL RAHMAN AL-ASSIR">
+  <data key="d0">Person</data>
+</node>
+<node id="MARTIN SCHWARTZ">
+  <data key="d0">Person</data>
+</node>
+<node id="IGOR SECHIN">
+  <data key="d0">Person</data>
+</node>
+<node id="JEN PAVLIK">
+  <data key="d0">Person</data>
+</node>
+<node id="LEONARD LEO">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID K. BEECKEN">
+  <data key="d0">Person</data>
+</node>
+<node id="JEFF GREENE">
+  <data key="d0">Person</data>
+</node>
+<node id="LIZEBETH KYPRISLIDIS">
+  <data key="d0">Person</data>
+</node>
+<node id="RICHARD ARON">
+  <data key="d0">Person</data>
+</node>
+<node id="LARA LEE YUNASKA">
+  <data key="d0">Person</data>
+</node>
+<node id="TAKASHI NIINO">
+  <data key="d0">Person</data>
+</node>
+<node id="JAMES H. HEALY">
+  <data key="d0">Person</data>
+</node>
+<node id="JENNIFER KORN">
+  <data key="d0">Person</data>
+</node>
+<node id="HITOSHI MATSUURA">
+  <data key="d0">Person</data>
+</node>
+<node id="HEIDI HOROWITZ">
+  <data key="d0">Person</data>
+</node>
+<node id="REINCE PRIEBUS">
+  <data key="d0">Person</data>
+</node>
+<node id="SHANNON MCGAHN">
+  <data key="d0">Person</data>
+</node>
+<node id="KIMBERLY SORRENTINO">
+  <data key="d0">Person</data>
+</node>
+<node id="ANITA THIGPEN PERRY">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL POMPEO">
+  <data key="d0">Person</data>
+</node>
+<node id="THOMAS M. SPARICO">
+  <data key="d0">Person</data>
+</node>
+<node id="COREY LEWANDOWSKI">
+  <data key="d0">Person</data>
+</node>
+<node id="MARK PASQUERELLA">
+  <data key="d0">Person</data>
+</node>
+<node id="BOB PADUCHIK">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHELLE CARLSON">
+  <data key="d0">Person</data>
+</node>
+<node id="JANE SHIPMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERTA BRUDNER">
+  <data key="d0">Person</data>
+</node>
+<node id="PETER SCHWEIZER">
+  <data key="d0">Person</data>
+</node>
+<node id="TOM BOSSERT">
+  <data key="d0">Person</data>
+</node>
+<node id="XAVIER DEU">
+  <data key="d0">Person</data>
+</node>
+<node id="WILLIAM G. PETTY JR.">
+  <data key="d0">Person</data>
+</node>
+<node id="JOYCE GRIME">
+  <data key="d0">Person</data>
+</node>
+<node id="NIGEL OAKES">
+  <data key="d0">Person</data>
+</node>
+<node id="KONSTANTIN V. KILIMNIK">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID HAMAMOTO">
+  <data key="d0">Person</data>
+</node>
+<node id="CAROLINE MAY">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID HOROWITZ">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT COTTER">
+  <data key="d0">Person</data>
+</node>
+<node id="CURTIS DUBAY">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT LIGHTHIZER">
+  <data key="d0">Person</data>
+</node>
+<node id="RICK GATES">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSE GARCIA">
+  <data key="d0">Person</data>
+</node>
+<node id="PAUL GERVAIS">
+  <data key="d0">Person</data>
+</node>
+<node id="NIGEL FARAGE">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT F. GRIFFIN">
+  <data key="d0">Person</data>
+</node>
+<node id="PAULA LEED">
+  <data key="d0">Person</data>
+</node>
+<node id="DINA POWELL">
+  <data key="d0">Person</data>
+</node>
+<node id="GIORGI RAMISHVILI">
+  <data key="d0">Person</data>
+</node>
+<node id="DAN SULLIVAN">
+  <data key="d0">Person</data>
+</node>
+<node id="ELAINE CHAO">
+  <data key="d0">Person</data>
+</node>
+<node id="JULIA HAHN">
+  <data key="d0">Person</data>
+</node>
+<node id="LINDA MCMAHON">
+  <data key="d0">Person</data>
+</node>
+<node id="JULIA SHEN">
+  <data key="d0">Person</data>
+</node>
+<node id="GARRETT MURCH">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSH PITCOCK">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID H. KOCH">
+  <data key="d0">Person</data>
+</node>
+<node id="MARGARET CHIN">
+  <data key="d0">Person</data>
+</node>
+<node id="KEVIN MARINO">
+  <data key="d0">Person</data>
+</node>
+<node id="JEFF WAGONER">
+  <data key="d0">Person</data>
+</node>
+<node id="VLADIMIR PUTIN">
+  <data key="d0">Person</data>
+</node>
+<node id="HAMZA ALI ABDULLATIF MUSTAFA">
+  <data key="d0">Person</data>
+</node>
+<node id="STEPHANIE WINSTON WOLKOFF">
+  <data key="d0">Person</data>
+</node>
+<node id="EDWIN FEULNER">
+  <data key="d0">Person</data>
+</node>
+<node id="PAUL MANAFORT">
+  <data key="d0">Person</data>
+</node>
+<node id="RINAT AKHMETOV">
+  <data key="d0">Person</data>
+</node>
+<node id="MATTHEW GRISWOLD BEVIN">
+  <data key="d0">Person</data>
+</node>
+<node id="MUKEMMEL SARIMSAKCI">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN MCENTEE">
+  <data key="d0">Person</data>
+</node>
+<node id="CHRISTOPHER RUDDY">
+  <data key="d0">Person</data>
+</node>
+<node id="WHITNEY SCHNEIDER">
+  <data key="d0">Person</data>
+</node>
+<node id="ANGELA CHAO">
+  <data key="d0">Person</data>
+</node>
+<node id="ELON MUSK">
+  <data key="d0">Person</data>
+</node>
+<node id="PAULO FIGUEIREDO FILHO">
+  <data key="d0">Person</data>
+</node>
+<node id="JOSHUA KUSHNER">
+  <data key="d0">Person</data>
+</node>
+<node id="MURRAY KUSHNER">
+  <data key="d0">Person</data>
+</node>
+<node id="RICK SNYDER">
+  <data key="d0">Person</data>
+</node>
+<node id="PHIL RUFFIN">
+  <data key="d0">Person</data>
+</node>
+<node id="RAUL BERNL-MORA">
+  <data key="d0">Person</data>
+</node>
+<node id="BRIAN BURNS">
+  <data key="d0">Person</data>
+</node>
+<node id="TIFFANY ISAACS">
+  <data key="d0">Person</data>
+</node>
+<node id="KATIE WALSH">
+  <data key="d0">Person</data>
+</node>
+<node id="ASHLEY MARQUIS">
+  <data key="d0">Person</data>
+</node>
+<node id="STEVES RODRIGUEZ">
+  <data key="d0">Person</data>
+</node>
+<node id="JOYCE MEYER">
+  <data key="d0">Person</data>
+</node>
+<node id="IVANKA TRUMP">
+  <data key="d0">Person</data>
+</node>
+<node id="MICA MOSBACHER">
+  <data key="d0">Person</data>
+</node>
+<node id="BEN HOWARD">
+  <data key="d0">Person</data>
+</node>
+<node id="TRAVIS KALANICK">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL FASCITELLI">
+  <data key="d0">Person</data>
+</node>
+<node id="ANNA MARIA LEDERMANN">
+  <data key="d0">Person</data>
+</node>
+<node id="MIKE FERGUSON">
+  <data key="d0">Person</data>
+</node>
+<node id="WILLIAM P. FOLEY">
+  <data key="d0">Person</data>
+</node>
+<node id="WU XIAOHUI">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID MORRELL">
+  <data key="d0">Person</data>
+</node>
+<node id="AARON SCHOCK">
+  <data key="d0">Person</data>
+</node>
+<node id="ESTHER KUSHNER">
+  <data key="d0">Person</data>
+</node>
+<node id="SAM CLOVIS">
+  <data key="d0">Person</data>
+</node>
+<node id="PRINCE ALWALEED BIN TALALTHE">
+  <data key="d0">Person</data>
+</node>
+<node id="DMITRY FIRTASH">
+  <data key="d0">Person</data>
+</node>
+<node id="ALEXANDER ACOSTA">
+  <data key="d0">Person</data>
+</node>
+<node id="RYAN ZINKE">
+  <data key="d0">Person</data>
+</node>
+<node id="MEHMET ALI YALCINDAG">
+  <data key="d0">Person</data>
+</node>
+<node id="RUSSELL FLICKER">
+  <data key="d0">Person</data>
+</node>
+<node id="MELANIA TRUMP">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHIHIRO CHIKUBU">
+  <data key="d0">Person</data>
+</node>
+<node id="EMIN AGALAROV">
+  <data key="d0">Person</data>
+</node>
+<node id="JENNIFER ZELMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="BILL STEPIEN">
+  <data key="d0">Person</data>
+</node>
+<node id="PETER DAVIS">
+  <data key="d0">Person</data>
+</node>
+<node id="LINDSEY REYNOLDS">
+  <data key="d0">Person</data>
+</node>
+<node id="STEPHEN B. MEISTER">
+  <data key="d0">Person</data>
+</node>
+<node id="ANDREW GREENBAUM">
+  <data key="d0">Person</data>
+</node>
+<node id="MIKHAIL MORGULIS">
+  <data key="d0">Person</data>
+</node>
+<node id="CHRISTL MAHFOUZ">
+  <data key="d0">Person</data>
+</node>
+<node id="NICOLE KUSHNER MEYER">
+  <data key="d0">Person</data>
+</node>
+<node id="STEPHEN MILLER">
+  <data key="d0">Person</data>
+</node>
+<node id="H. B. HICKS">
+  <data key="d0">Person</data>
+</node>
+<node id="ANDY WIGMORE">
+  <data key="d0">Person</data>
+</node>
+<node id="JO ALLEN PATTON">
+  <data key="d0">Person</data>
+</node>
+<node id="BONNIE HAYDON">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL SEXTON">
+  <data key="d0">Person</data>
+</node>
+<node id="LAETITIA KOCH">
+  <data key="d0">Person</data>
+</node>
+<node id="KATHRYN TALENTO">
+  <data key="d0">Person</data>
+</node>
+<node id="RICHARD SCHMIDT">
+  <data key="d0">Person</data>
+</node>
+<node id="WILLIAM I. KOCH">
+  <data key="d0">Person</data>
+</node>
+<node id="HOWARD RUBENSTEIN">
+  <data key="d0">Person</data>
+</node>
+<node id="REED S. CORDISH">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL KENDALL">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT ZELMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="MATTHEW CALAMARI">
+  <data key="d0">Person</data>
+</node>
+<node id="STEFAAN HAEGEMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="SOPHIA BARATASHVILI">
+  <data key="d0">Person</data>
+</node>
+<node id="SARA MARTENS">
+  <data key="d0">Person</data>
+</node>
+<node id="VANESSA TRUMP">
+  <data key="d0">Person</data>
+</node>
+<node id="BRIAN HARRIS">
+  <data key="d0">Person</data>
+</node>
+<node id="RYAN DOHERTY">
+  <data key="d0">Person</data>
+</node>
+<node id="JAMES ROBERT WILL">
+  <data key="d0">Person</data>
+</node>
+<node id="BRITTANY HEBERT">
+  <data key="d0">Person</data>
+</node>
+<node id="JAMES BURNHAM">
+  <data key="d0">Person</data>
+</node>
+<node id="ELENA GORLOVA">
+  <data key="d0">Person</data>
+</node>
+<node id="JEREMY BLACKBURN">
+  <data key="d0">Person</data>
+</node>
+<node id="AVRAM LEBOR">
+  <data key="d0">Person</data>
+</node>
+<node id="LAETITIA RITTMEISTER">
+  <data key="d0">Person</data>
+</node>
+<node id="ABIGAIL KLEM">
+  <data key="d0">Person</data>
+</node>
+<node id="MITT ROMNEY">
+  <data key="d0">Person</data>
+</node>
+<node id="THEODORE WILLIAM DARNELL">
+  <data key="d0">Person</data>
+</node>
+<node id="CLIFF SIMS">
+  <data key="d0">Person</data>
+</node>
+<node id="HARY TANOESOEDIBJO">
+  <data key="d0">Person</data>
+</node>
+<node id="SHAHIRA KNIGHT">
+  <data key="d0">Person</data>
+</node>
+<node id="JEFF SESSIONS">
+  <data key="d0">Person</data>
+</node>
+<node id="WELLS GRIFFITH">
+  <data key="d0">Person</data>
+</node>
+<node id="JASON D. GREENBLATT">
+  <data key="d0">Person</data>
+</node>
+<node id="MARC SOLOMON">
+  <data key="d0">Person</data>
+</node>
+<node id="JASON D. MEISTER">
+  <data key="d0">Person</data>
+</node>
+<node id="SAM BROWNBACK">
+  <data key="d0">Person</data>
+</node>
+<node id="SAM NUNBERG">
+  <data key="d0">Person</data>
+</node>
+<node id="ROGER MICHAEL GABB">
+  <data key="d0">Person</data>
+</node>
+<node id="JOHN F. KELLY">
+  <data key="d0">Person</data>
+</node>
+<node id="SCOTT PRUITT">
+  <data key="d0">Person</data>
+</node>
+<node id="KATHLEEN M. MCSWEENEY">
+  <data key="d0">Person</data>
+</node>
+<node id="RICHARD HOROWITZ">
+  <data key="d0">Person</data>
+</node>
+<node id="HEATHER RINKUS">
+  <data key="d0">Person</data>
+</node>
+<node id="ALEXANDER ANGELSON">
+  <data key="d0">Person</data>
+</node>
+<node id="ANDREW BREMBERG">
+  <data key="d0">Person</data>
+</node>
+<node id="HELEN FERRE">
+  <data key="d0">Person</data>
+</node>
+<node id="THOMAS FUCHS">
+  <data key="d0">Person</data>
+</node>
+<node id="CHEN SITING AKA CHARLYNE CHEN">
+  <data key="d0">Person</data>
+</node>
+<node id="PETER HOLT">
+  <data key="d0">Person</data>
+</node>
+<node id="EDUARD KHUDAYNATOV">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL J. BOCCIO">
+  <data key="d0">Person</data>
+</node>
+<node id="BETSY DEVOS">
+  <data key="d0">Person</data>
+</node>
+<node id="ASHLEY THOMPSON SIDMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL MUELLER">
+  <data key="d0">Person</data>
+</node>
+<node id="TREVOR DRINKWATER">
+  <data key="d0">Person</data>
+</node>
+<node id="JARED KUSHNER">
+  <data key="d0">Person</data>
+</node>
+<node id="MICHAEL FLYNN">
+  <data key="d0">Person</data>
+</node>
+<node id="OLEG MISERVA">
+  <data key="d0">Person</data>
+</node>
+<node id="DAN COATS">
+  <data key="d0">Person</data>
+</node>
+<node id="ANNIE VELTRI">
+  <data key="d0">Person</data>
+</node>
+<node id="GEORGE E. NORCROSS III">
+  <data key="d0">Person</data>
+</node>
+<node id="MIKE BASELICE">
+  <data key="d0">Person</data>
+</node>
+<node id="IAN ALISTAIR HUMPHRIES RUSS">
+  <data key="d0">Person</data>
+</node>
+<node id="RUSS VOUGHT">
+  <data key="d0">Person</data>
+</node>
+<node id="HOWIE CARR">
+  <data key="d0">Person</data>
+</node>
+<node id="MALLORY HUNTER">
+  <data key="d0">Person</data>
+</node>
+<node id="THOMAS J. BARRACK JR.">
+  <data key="d0">Person</data>
+</node>
+<node id="TERRY BRANSTAD">
+  <data key="d0">Person</data>
+</node>
+<node id="UTTAM DHILLON">
+  <data key="d0">Person</data>
+</node>
+<node id="SHAWN MCCABE">
+  <data key="d0">Person</data>
+</node>
+<node id="EDWARD ROBINSON">
+  <data key="d0">Person</data>
+</node>
+<node id="INDRA NOOYI">
+  <data key="d0">Person</data>
+</node>
+<node id="MATTHEW CALAMARI, JR.">
+  <data key="d0">Person</data>
+</node>
+<node id="SONNY PERDUE">
+  <data key="d0">Person</data>
+</node>
+<node id="ERIC DANZIGER">
+  <data key="d0">Person</data>
+</node>
+<node id="DANIEL BOUAZIZ">
+  <data key="d0">Person</data>
+</node>
+<node id="GRACE MURDOCH">
+  <data key="d0">Person</data>
+</node>
+<node id="BILL BELICHICK">
+  <data key="d0">Person</data>
+</node>
+<node id="DANIEL STEINMETZ">
+  <data key="d0">Person</data>
+</node>
+<node id="ERIC UELAND">
+  <data key="d0">Person</data>
+</node>
+<node id="VIKTOR F. YANUKOVYCH">
+  <data key="d0">Person</data>
+</node>
+<node id="PAVEL FUKS">
+  <data key="d0">Person</data>
+</node>
+<node id="ANAND PATEL">
+  <data key="d0">Person</data>
+</node>
+<node id="MADHUKAR TULSI">
+  <data key="d0">Person</data>
+</node>
+<node id="ALLEN WEISSELBERG">
+  <data key="d0">Person</data>
+</node>
+<node id="JEB BUSH">
+  <data key="d0">Person</data>
+</node>
+<node id="ANDRIY ZAIKA">
+  <data key="d0">Person</data>
+</node>
+<node id="AJIT PAI">
+  <data key="d0">Person</data>
+</node>
+<node id="MARTIN SCHLOSSBERG">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT GOAD">
+  <data key="d0">Person</data>
+</node>
+<node id="ROB SPEYER">
+  <data key="d0">Person</data>
+</node>
+<node id="ARTHUR LEVINE">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT SHIPMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="REGINALD J. BROWN">
+  <data key="d0">Person</data>
+</node>
+<node id="MARC E. KASOWITZ">
+  <data key="d0">Person</data>
+</node>
+<node id="ROBERT SOMMER">
+  <data key="d0">Person</data>
+</node>
+<node id="SEAN HANNITY">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID WILDSTEIN">
+  <data key="d0">Person</data>
+</node>
+<node id="ALEXANDER NOVAK">
+  <data key="d0">Person</data>
+</node>
+<node id="RICHARD DEVOS">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID SHULKIN">
+  <data key="d0">Person</data>
+</node>
+<node id="ALEXANDER MASHKEVICH">
+  <data key="d0">Person</data>
+</node>
+<node id="DANIEL RIDLOFF">
+  <data key="d0">Person</data>
+</node>
+<node id="STEPHEN A. SCHWARZMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="KELLYANNE CONWAY">
+  <data key="d0">Person</data>
+</node>
+<node id="KENNETH CHARLES ROSE">
+  <data key="d0">Person</data>
+</node>
+<node id="ERIK PRINCE">
+  <data key="d0">Person</data>
+</node>
+<node id="ADO MACHIDA">
+  <data key="d0">Person</data>
+</node>
+<node id="GIL COHEN">
+  <data key="d0">Person</data>
+</node>
+<node id="JIM MCGREEVEY">
+  <data key="d0">Person</data>
+</node>
+<node id="DAVID MURFIN">
+  <data key="d0">Person</data>
+</node>
+<node id="STEVEN N. CHEUNG">
+  <data key="d0">Person</data>
+</node>
+<node id="CHRISTOPHER JOHN ROUSE">
+  <data key="d0">Person</data>
+</node>
+<node id="SAGAR CHORDIA">
+  <data key="d0">Person</data>
+</node>
+<node id="ANNE-MARIE DONOGHUE">
+  <data key="d0">Person</data>
+</node>
+<node id="PETER G. KELLY">
+  <data key="d0">Person</data>
+</node>
+<node id="LEIB WALDMAN">
+  <data key="d0">Person</data>
+</node>
+<node id="JORGE PEREZ">
+  <data key="d0">Person</data>
+</node>
+<edge source="ANDREW GRAVES" target="ERIC TRUMP"/>
+<edge source="PAUL TELLER" target="DONALD J. TRUMP">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534342-Teller-Paul.html</data>
+</edge>
+<edge source="DAVID S. CORDISH" target="REED S. CORDISH">
+  <data key="d1">Parent/child</data>
+  <data key="d2">http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html</data>
+</edge>
+<edge source="DAVID S. CORDISH" target="DONALD J. TRUMP">
+  <data key="d1">Friends</data>
+  <data key="d2">http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html</data>
+</edge>
+<edge source="DAVID S. CORDISH" target="CHARLES KUSHNER"/>
+<edge source="CUI TIANKAI" target="JARED KUSHNER">
+  <data key="d1">"Kushner and Cui have had an extensive ongoing dialogue that has been positive, according to a White House official," per Bloomberg</data>
+  <data key="d2">https://www.bloomberg.com/politics/articles/2017-02-07/china-courts-ivanka-jared-kushner-to-smooth-ties-with-trump</data>
+</edge>
+<edge source="NIR EREL MARGALIT" target="DONALD J. TRUMP"/>
+<edge source="HOPE HICKS" target="DONALD J. TRUMP">
+  <data key="d1">Director of Strategic Communications, White House</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534459-Hicks-Hope.html</data>
+</edge>
+<edge source="ANDREW D. KOENIG" target="DONALD J. TRUMP">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534057-Koenig-Andrew-D.html</data>
+</edge>
+<edge source="ANDREW D. KOENIG" target="CHARLES G. KOCH"/>
+<edge source="ANDREW D. KOENIG" target="DON MCGAHN"/>
+<edge source="ANDREW D. KOENIG" target="MARC SHORT"/>
+<edge source="ANDREW D. KOENIG" target="BETHANY SCULLY"/>
+<edge source="ANDREW D. KOENIG" target="ANNIE DONALDSON"/>
+<edge source="ANDREW D. KOENIG" target="DAVID H. KOCH"/>
+<edge source="ANDREW D. KOENIG" target="ANDREW BREMBERG"/>
+<edge source="JOEL HIRSCH" target="DONALD J. TRUMP"/>
+<edge source="JOSEPH LAI" target="DONALD J. TRUMP">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534041-Lai-Joseph.html</data>
+</edge>
+<edge source="KENNETH M. DUBERSTEIN" target="DONALD J. TRUMP"/>
+<edge source="CATHY SOLOMON" target="DONALD J. TRUMP"/>
+<edge source="DEBBIE BERMAN" target="DONALD J. TRUMP"/>
+<edge source="NOEL FRANCISCO" target="DONALD J. TRUMP">
+  <data key="d1">Principal Deputy Solicitor General</data>
+  <data key="d2">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge source="NOEL FRANCISCO" target="STEPHEN VADEN"/>
+<edge source="NOEL FRANCISCO" target="DON MCGAHN"/>
+<edge source="NOEL FRANCISCO" target="JOHN GORE"/>
+<edge source="NOEL FRANCISCO" target="ANNIE DONALDSON"/>
+<edge source="NOEL FRANCISCO" target="GREG KATSAS"/>
+<edge source="NOEL FRANCISCO" target="BILL MCGINLEY"/>
+<edge source="NOEL FRANCISCO" target="JAMES UTHMEIER"/>
+<edge source="NOEL FRANCISCO" target="BLAKE DELAPLANE"/>
+<edge source="NOEL FRANCISCO" target="MICHAEL MURRAY"/>
+<edge source="NOEL FRANCISCO" target="DAVID MORRELL"/>
+<edge source="NOEL FRANCISCO" target="JAMES BURNHAM"/>
+<edge source="CHARLES G. KOCH" target="WILLIAM I. KOCH">
+  <data key="d1">Siblings</data>
+  <data key="d2">http://www.forbes.com/profile/koch/</data>
+</edge>
+<edge source="CHARLES G. KOCH" target="MARC SHORT">
+  <data key="d1">"the Koch brothers’ top political adviser in Washington and a trusted member of their inner circle for five years," per Politico</data>
+  <data key="d2">http://www.politico.com/story/2016/02/marc-short-marco-rubio-219664</data>
+</edge>
+<edge source="CHARLES G. KOCH" target="DAVID H. KOCH">
+  <data key="d1">Siblings</data>
+  <data key="d2">http://www.forbes.com/profile/koch/</data>
+</edge>
+<edge source="CHARLES G. KOCH" target="JOHN C. PITTENGER"/>
+<edge source="CHARLES G. KOCH" target="MICHAEL POMPEO"/>
+<edge source="CYNTHIA HIRSCH" target="DONALD J. TRUMP"/>
+<edge source="NIKKI HALEY" target="DONALD J. TRUMP">
+  <data key="d1">Ambassador to the United Nations</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="CHRISTIE TODD WHITMAN" target="JARED KUSHNER"/>
+<edge source="YURI MILNER" target="CHARLES KUSHNER"/>
+<edge source="JOHN DESTEFANO" target="DONALD J. TRUMP">
+  <data key="d1">Director of presidential personnel</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="CHLOE MURDOCH" target="IVANKA TRUMP">
+  <data key="d1">Former trustee</data>
+  <data key="d2">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge source="CHLOE MURDOCH" target="RUPERT MURDOCH">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge source="CHLOE MURDOCH" target="WENDI DENG MURDOCH">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge source="FREDERICK RUSTMANN" target="DONALD J. TRUMP"/>
+<edge source="JEFFREY WEISS" target="DONALD J. TRUMP"/>
+<edge source="SCOTT GAST" target="DONALD J. TRUMP">
+  <data key="d1">Senior associate counsel</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534078-Gast-Scott.html</data>
+</edge>
+<edge source="MYRNA HAFT" target="DONALD J. TRUMP"/>
+<edge source="BENY STEINMETZ" target="DANIEL STEINMETZ">
+  <data key="d1">Siblings</data>
+  <data key="d2">https://www.bloomberg.com/news/articles/2017-04-26/kushners-are-partners-with-one-of-israel-s-wealthiest-families</data>
+</edge>
+<edge source="LEE EICKMEYER" target="DONALD TRUMP JR."/>
+<edge source="BRAD PARSCALE" target="ALEXANDER NIX">
+  <data key="d1">Pascale says he hired Nix's company, Cambridge Analytica, to work on the campaign</data>
+  <data key="d2">https://www.washingtonpost.com/politics/trumps-plan-for-a-comeback-includes-building-a-psychographic-profile-of-every-voter/2016/10/27/9064a706-9611-11e6-9b7c-57290af48a49_story.html?utm_term=.ec091285ddc0</data>
+</edge>
+<edge source="BRAD PARSCALE" target="DONALD J. TRUMP">
+  <data key="d1">Former digital director for Trump campaign</data>
+  <data key="d2">http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263</data>
+</edge>
+<edge source="BRAD PARSCALE" target="NICK AYERS"/>
+<edge source="BRAD PARSCALE" target="MARTY OBST"/>
+<edge source="BRAD PARSCALE" target="KATRINA PIERSON"/>
+<edge source="BRAD PARSCALE" target="DAVID BOSSIE"/>
+<edge source="BRAD PARSCALE" target="RICK GATES"/>
+<edge source="BRAD PARSCALE" target="KATIE WALSH"/>
+<edge source="BRAD PARSCALE" target="JILL GILES"/>
+<edge source="STEPHEN VADEN" target="SONNY PERDUE">
+  <data key="d1">Special assistant to Secretary of Agriculture</data>
+  <data key="d2">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge source="CARLOS DIAZ-ROSILLO" target="DONALD J. TRUMP">
+  <data key="d1">Deputy assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534022-Diaz-Rosillo-Carlos.html</data>
+</edge>
+<edge source="MATTHEW CALAMAN" target="DONALD J. TRUMP"/>
+<edge source="SHERI A. DILLON" target="DONALD J. TRUMP">
+  <data key="d1">Conflicts of interest lawyer</data>
+  <data key="d2">https://www.nytimes.com/2017/01/11/us/politics/trump-press-conference-transcript.html</data>
+</edge>
+<edge source="PETER THIEL" target="DONALD J. TRUMP">
+  <data key="d1">Former transition team member</data>
+  <data key="d2">http://www.politico.com/story/2017/01/peter-thiel-no-job-trump-administration-233523</data>
+</edge>
+<edge source="PETER THIEL" target="JOSHUA KUSHNER"/>
+<edge source="KENNETH W. O'KEEFE" target="DAN COATS"/>
+<edge source="MINA PATEL" target="DONALD J. TRUMP"/>
+<edge source="KAZUNORI OHTSUKA" target="DONALD J. TRUMP"/>
+<edge source="KEITH SCHILLER" target="DONALD J. TRUMP">
+  <data key="d1">Director of Oval Office operations</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="JONATHAN MECHANIC" target="CHARLES KUSHNER"/>
+<edge source="SERHIY LYOVOCHKIN" target="PAUL MANAFORT">
+  <data key="d1">Manafort ran PR for Lyovochkin's campaign</data>
+  <data key="d2">https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html</data>
+</edge>
+<edge source="LLOYD MILLER" target="DONALD J. TRUMP"/>
+<edge source="MARYANNE TRUMP BARRY" target="KEVIN MARINO">
+  <data key="d1">Marino served as Barry's law clerk</data>
+  <data key="d2">http://www.khmarino.com/attorney_bio_marino.html</data>
+</edge>
+<edge source="MARYANNE TRUMP BARRY" target="DONALD J. TRUMP">
+  <data key="d1">Siblings</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="JOEL I. KLEIN" target="BETSY DEVOS"/>
+<edge source="ZIYA MAMMADOV" target="ANAR MAMMADOV">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.meydan.tv/en/site/politics/13787/</data>
+</edge>
+<edge source="ZIYA MAMMADOV" target="ELTON MAMMADOV">
+  <data key="d1">Parent/child</data>
+  <data key="d2">http://www.newyorker.com/magazine/2017/03/13/donald-trumps-worst-deal</data>
+</edge>
+<edge source="ZIYA MAMMADOV" target="KEYUMARS DARVISHI"/>
+<edge source="GARY COHN" target="DONALD J. TRUMP">
+  <data key="d1">Director United States National Economic Council</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="GARY COHN" target="ROBERT LIGHTHIZER"/>
+<edge source="GARY COHN" target="STEVEN MNUCHIN"/>
+<edge source="GARY COHN" target="JOHN TALBOTT"/>
+<edge source="GARY COHN" target="STEPHEN BANNON"/>
+<edge source="GARY COHN" target="DINA POWELL"/>
+<edge source="GARY COHN" target="CHARLES KUSHNER"/>
+<edge source="WILLIAM OBERNDORF" target="BETSY DEVOS"/>
+<edge source="JILL MARTIN" target="DONALD J. TRUMP"/>
+<edge source="ANTHONY SCARAMUCCI" target="DONALD J. TRUMP">
+  <data key="d1">Considered for senior adviser to the President position</data>
+  <data key="d2">https://mobile.nytimes.com/2017/02/01/us/politics/anthony-scaramucci-china-trump-administration.html</data>
+</edge>
+<edge source="ANTHONY SCARAMUCCI" target="KIRILL DMITRIEV">
+  <data key="d1">Met at Davos</data>
+  <data key="d2">https://www.bloomberg.com/politics/articles/2017-01-17/in-davos-trump-aide-talks-deals-with-sanctioned-kremlin-fund</data>
+</edge>
+<edge source="ROBERT A. IGER" target="DONALD J. TRUMP">
+  <data key="d1">Member of Trump's Strategic and Policy forum</data>
+  <data key="d2">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge source="ALEXANDER GRAY" target="DONALD J. TRUMP">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534083-Gray-Alexander.html</data>
+</edge>
+<edge source="BRUCE E. TOLL" target="DONALD J. TRUMP"/>
+<edge source="CESAR CONDE" target="BETSY DEVOS"/>
+<edge source="JOHN DELL SAUTER" target="DONALD J. TRUMP"/>
+<edge source="REBEKAH MERCER" target="ROBERT MERCER">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.b4e577d44785</data>
+</edge>
+<edge source="REBEKAH MERCER" target="DONALD J. TRUMP">
+  <data key="d1">Major donor</data>
+  <data key="d2">https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.b4e577d44785</data>
+</edge>
+<edge source="REBEKAH MERCER" target="SYLVAIN MIROCHNIKOFF">
+  <data key="d1">Married</data>
+  <data key="d2">https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.9cf5b5040519</data>
+</edge>
+<edge source="REBEKAH MERCER" target="STEPHEN BANNON">
+  <data key="d1">"Tied at the hip," per a source to The Hill</data>
+  <data key="d2">http://thehill.com/homenews/campaign/291772-billionaire-father-and-daughter-linked-to-trump-shakeup</data>
+</edge>
+<edge source="REBEKAH MERCER" target="KELLYANNE CONWAY">
+  <data key="d1">"They're close," per The Atlantic</data>
+  <data key="d2">https://www.theatlantic.com/politics/archive/2017/01/no-one-knows-what-the-powerful-mercers-really-want/514529/</data>
+</edge>
+<edge source="REBEKAH MERCER" target="PAUL WINFREE"/>
+<edge source="REBEKAH MERCER" target="CURTIS DUBAY"/>
+<edge source="REBEKAH MERCER" target="JAMES SHERK"/>
+<edge source="REBEKAH MERCER" target="ELAINE CHAO"/>
+<edge source="REBEKAH MERCER" target="EDWIN FEULNER"/>
+<edge source="REBEKAH MERCER" target="JOHN GRAY"/>
+<edge source="REBEKAH MERCER" target="EDWIN MEESE"/>
+<edge source="REBEKAH MERCER" target="RONALD ROBINSON"/>
+<edge source="REBEKAH MERCER" target="PETER SCHWEIZER"/>
+<edge source="REBEKAH MERCER" target="BERNIE MARCUS"/>
+<edge source="REBEKAH MERCER" target="EMILY CORNELL"/>
+<edge source="REBEKAH MERCER" target="DAVID BOSSIE"/>
+<edge source="REBEKAH MERCER" target="W.E.“ED” BOSARGE"/>
+<edge source="REBEKAH MERCER" target="THOMAS J BASILE"/>
+<edge source="REBEKAH MERCER" target="LEONARD LEO"/>
+<edge source="REBEKAH MERCER" target="LAWRENCE J. MONE"/>
+<edge source="REBEKAH MERCER" target="JENNIFER MERCER"/>
+<edge source="REBEKAH MERCER" target="LINDA BEAN"/>
+<edge source="REBEKAH MERCER" target="L. BRENT BOZELL"/>
+<edge source="REBEKAH MERCER" target="SEBASTIAN GORKA"/>
+<edge source="REBEKAH MERCER" target="DON MCGAHN"/>
+<edge source="REBEKAH MERCER" target="RUSS VOUGHT"/>
+<edge source="REBEKAH MERCER" target="RUDY GIULIANI"/>
+<edge source="RUDY GIULIANI" target="WILBUR ROSS">
+  <data key="d1">Privatization advisor when Giuliani was mayor</data>
+  <data key="d2">http://www.salon.com/2016/11/21/wilbur-ross-jr-rumored-to-be-donald-trumps-choice-for-commerce-secretary-owned-a-mine-where-12-miners-died-in-2006_partner/</data>
+</edge>
+<edge source="RUDY GIULIANI" target="KEN KURSON">
+  <data key="d1">Worked on 2008 presidential campaign</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge source="RUDY GIULIANI" target="CHARLES KUSHNER"/>
+<edge source="RUDY GIULIANI" target="DONALD J. TRUMP"/>
+<edge source="ALAN HAMMER" target="CHARLES KUSHNER">
+  <data key="d1">"has long worked with" Kushner, per New York Magazine</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge source="MARY T. BARRA" target="DONALD J. TRUMP">
+  <data key="d1">Member of Trump's Strategic and Policy forum</data>
+  <data key="d2">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge source="MARK HOLLOWAY" target="DONALD J. TRUMP"/>
+<edge source="DOUGLAS DURBANO" target="JEREMY BLACKBURN"/>
+<edge source="RUPERT MURDOCH" target="GRACE MURDOCH">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge source="RUPERT MURDOCH" target="DONALD J. TRUMP">
+  <data key="d1">"The president’s relationship with Mr. Murdoch is deeper and more enduring than most in his life, and the two commiserate and plot strategy in their phone calls, according to people close to both," according to the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1 | http://nymag.com/daily/intelligencer/2017/01/megyn-kellys-departure-is-clue-about-future-of-fox-news.html | http://mediamatters.org/blog/2017/01/04/how-donald-trump-could-make-rupert-murdoch-even-more-powerful/214924</data>
+</edge>
+<edge source="RUPERT MURDOCH" target="ELAINE CHAO"/>
+<edge source="SALLY PRIEBUS" target="REINCE PRIEBUS">
+  <data key="d1">Married</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="SCOTT WALKER" target="ANDREW BREMBERG">
+  <data key="d1">Policy director for Walker's campaign</data>
+  <data key="d2">http://www.modernhealthcare.com/article/20161111/NEWS/161119989?utm_source=modernhealthcare&amp;utm_medium=email&amp;utm_content=20161111-NEWS-161119989&amp;utm_campaign=mh-alert</data>
+</edge>
+<edge source="ZHUO RAN" target="WU XIAOHUI">
+  <data key="d1">Married. (Zhuo is the granddaughter of Deng Xiaoping, the former leader of the People's Republic of China. Wu is the chairman of the Anbang Insurance Group, which has been in business discussions with the Kushners.)</data>
+  <data key="d2">https://www.nytimes.com/2017/01/07/us/politics/jared-kushner-trump-business.html</data>
+</edge>
+<edge source="MARK STEVEN KIRK" target="DON MCGAHN"/>
+<edge source="MITCHELL QUAIN" target="DONALD J. TRUMP"/>
+<edge source="JULIAN ASSANGE" target="ROGER J. STONE, JR.">
+  <data key="d1">Stone told the Guardian that he and Assange have a "mutual friend" who served as a backchannel for advance notice of WikiLeaks' Clinton-related releases</data>
+  <data key="d2">https://www.theguardian.com/us-news/2016/nov/02/trump-adviser-clinton-emails-wikileaks-roger-stone</data>
+</edge>
+<edge source="ALBERT ROSS SR." target="OMAROSÉ ONEE MANIGAULT">
+  <data key="d1">Mentored by</data>
+  <data key="d2">http://www.omarosa.com/#</data>
+</edge>
+<edge source="DARRYLE BURNHAM" target="CHRISTOPHER RUDDY"/>
+<edge source="ROD BLUM" target="KELLYANNE CONWAY"/>
+<edge source="SEBASTIAN GORKA" target="DONALD J. TRUMP">
+  <data key="d1">Deputy assistant</data>
+  <data key="d2">http://www.cnn.com/2017/02/07/politics/kfile-gorka-on-fake-news/index.html</data>
+</edge>
+<edge source="SEBASTIAN GORKA" target="STEPHEN BANNON"/>
+<edge source="SEBASTIAN GORKA" target="ROBERT MERCER"/>
+<edge source="SEBASTIAN GORKA" target="PETER SCHWEIZER"/>
+<edge source="SEBASTIAN GORKA" target="CAROLINE MAY"/>
+<edge source="SEBASTIAN GORKA" target="JULIA HAHN"/>
+<edge source="SEBASTIAN GORKA" target="KATHLEEN TROIA MCFARLAND"/>
+<edge source="SEBASTIAN GORKA" target="JOHN MCENTEE"/>
+<edge source="LI KA-SHING" target="JOSHUA KUSHNER"/>
+<edge source="CHARLES A. MOHLER" target="DAN COATS"/>
+<edge source="SHAUN CAIN" target="ERIC TRUMP"/>
+<edge source="RICHARD MARVIN &quot;DICK&quot; DEVOS JR." target="BETSY DEVOS">
+  <data key="d1">Married</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="RICHARD MARVIN &quot;DICK&quot; DEVOS JR." target="RICHARD DEVOS"/>
+<edge source="RICHARD MARVIN &quot;DICK&quot; DEVOS JR." target="HEATHER RINKUS"/>
+<edge source="JONATHAN SPITALNY" target="MICHAEL SEXTON"/>
+<edge source="JONATHAN SPITALNY" target="DONALD J. TRUMP"/>
+<edge source="MIKE PENCE" target="MARC LOTTER">
+  <data key="d1">Press secretary</data>
+  <data key="d2">https://www.documentcloud.org/documents/3535104-Lotter-Marc.html</data>
+</edge>
+<edge source="MIKE PENCE" target="JARROD P. AGEN">
+  <data key="d1">Director of communications</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html</data>
+</edge>
+<edge source="MIKE PENCE" target="DONALD J. TRUMP">
+  <data key="d1">Vice President</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="MIKE PENCE" target="JOSH PITCOCK">
+  <data key="d1">Chief of staff</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="MIKE PENCE" target="MARTY OBST">
+  <data key="d1">Obst is a "top Pence aide," per Politico</data>
+  <data key="d2">http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263</data>
+</edge>
+<edge source="MIKE PENCE" target="MARC SHORT">
+  <data key="d1">"Longtime aide," per CNN</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="MIKE PENCE" target="SARAH MAKIN">
+  <data key="d1">Director of public engagement and intergovernmental affairs</data>
+  <data key="d2">https://www.documentcloud.org/documents/3535103-Makin-Sarah.html</data>
+</edge>
+<edge source="MIKE PENCE" target="NICK AYERS">
+  <data key="d1">Ayers is "one of [Pence's] top political advsiors," per Politico</data>
+  <data key="d2">http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263</data>
+</edge>
+<edge source="MIKE PENCE" target="RYAN JARMULA">
+  <data key="d1">Jarmula "served as a member of [Pence's] staff for a number of years," per the transition team</data>
+  <data key="d2">https://greatagain.gov/policy-team-32afa7145773</data>
+</edge>
+<edge source="MIKE PENCE" target="RUSS VOUGHT">
+  <data key="d1">Former aide</data>
+  <data key="d2">http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts</data>
+</edge>
+<edge source="MIKE PENCE" target="THOMAS E. WHEELER">
+  <data key="d1">Wheeler worked for Pence</data>
+  <data key="d2">http://www.motherjones.com/politics/2017/02/justice-department-thomas-wheeler-presentations</data>
+</edge>
+<edge source="MIKE PENCE" target="JEN PAVLIK">
+  <data key="d1">Deputy chief of staff</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="MIKE PENCE" target="JOHN GRAY">
+  <data key="d1">Gray worked for Pence</data>
+  <data key="d2">http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts</data>
+</edge>
+<edge source="MIKE PENCE" target="KELLYANNE CONWAY"/>
+<edge source="SHARON QUAIN" target="DONALD J. TRUMP"/>
+<edge source="DEANNE HUTCHINSON" target="DONALD J. TRUMP"/>
+<edge source="STRAUSS ZELNICK" target="JARED KUSHNER">
+  <data key="d1">"close with Kushner," per New York Magazine</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge source="FABIEN BAUSSART" target="DONALD TRUMP JR."/>
+<edge source="MARCO RUBIO" target="MARC SHORT"/>
+<edge source="LINDA BEAN" target="DONALD J. TRUMP">
+  <data key="d1">Donor</data>
+  <data key="d2">http://www.nbcnews.com/business/business-news/l-l-bean-embroiled-spat-over-donation-trump-campaign-n706236</data>
+</edge>
+<edge source="YOSHIO MATSUURA" target="DONALD J. TRUMP"/>
+<edge source="JOHN FLEMING" target="KELLYANNE CONWAY"/>
+<edge source="EDWARD M. BURKE" target="KELLY KEELING HAHN"/>
+<edge source="EDWARD M. BURKE" target="DONALD J. TRUMP"/>
+<edge source="JUDITH WEISS" target="DONALD J. TRUMP"/>
+<edge source="THOMAS JOSEPH ROONEY" target="DON MCGAHN"/>
+<edge source="CINDY SITES" target="DONALD J. TRUMP"/>
+<edge source="THOMAS EDWIN JUNIOR DUPAR" target="DONALD J. TRUMP"/>
+<edge source="ANTHONY W. PARKER" target="DONALD J. TRUMP"/>
+<edge source="BRENDA AXELROD" target="DONALD J. TRUMP"/>
+<edge source="TONY TIAH THEE KIAN" target="TIAH JOO KIM">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.washingtonpost.com/classic-apps/high-rollers-risk-takers-and-rule-benders-donald-trumps-unorthodox-roster-of-overseas-business-partners/2017/01/13/73797ab6-cc37-11e6-b8a2-8c2a61b0436f_story.html?utm_term=.c2f475ce19c6</data>
+</edge>
+<edge source="TONY TIAH THEE KIAN" target="DONALD J. TRUMP"/>
+<edge source="STEVEN MNUCHIN" target="DONALD J. TRUMP">
+  <data key="d1">Secretary of Treasury</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="STEVEN MNUCHIN" target="EDWARD LAMPERT">
+  <data key="d1">Former college roommates; Mnuchin has a position in an entity connected to Lampert</data>
+  <data key="d2">https://www.washingtonpost.com/news/wonk/wp/2017/01/19/treasury-nominee-initially-omitted-more-than-100-million-from-disclosures-democratic-memo-shows/?postshare=3221484835948504&amp;tid=ss_tw&amp;utm_term=.e7b4eb5ed0a8</data>
+</edge>
+<edge source="STEVEN MNUCHIN" target="GEORGE SOROS">
+  <data key="d1">Mnuchin worked for Soros' fund</data>
+  <data key="d2">http://www.vanityfair.com/news/2016/11/george-soros-declares-war-on-trump</data>
+</edge>
+<edge source="STEVEN MNUCHIN" target="ELAINE CHAO"/>
+<edge source="RICARDO HAZOURY" target="DONALD J. TRUMP"/>
+<edge source="JOHN COLAMARINO" target="DONALD J. TRUMP"/>
+<edge source="RICHARD SALTZMAN" target="THOMAS J. BARRACK JR."/>
+<edge source="BENJAMIN NETANYAHU" target="CHARLES KUSHNER">
+  <data key="d1">Longtime family friends, per Reuters</data>
+  <data key="d2">http://www.reuters.com/article/us-usa-trump-israel-scene-idUSKBN15U2PA</data>
+</edge>
+<edge source="BENJAMIN NETANYAHU" target="JARED KUSHNER">
+  <data key="d1">Longtime family friends, per Reuters</data>
+  <data key="d2">http://www.reuters.com/article/us-usa-trump-israel-scene-idUSKBN15U2PA</data>
+</edge>
+<edge source="JOHN CORYN" target="SEAN CAIRNCROSS"/>
+<edge source="RICHARD LEFRAK" target="DONALD J. TRUMP">
+  <data key="d1">"one of Trump's few close friends in New York real estate," per New York Magazine and co-head of his new infrastructure council according to the Wall Street Journal</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html | https://www.wsj.com/articles/donald-trump-asks-richard-lefrak-steven-roth-to-monitor-infrastructure-plans-costs-1484591989</data>
+</edge>
+<edge source="SIMON ISAACS" target="DONALD J. TRUMP"/>
+<edge source="STEPHEN MUNISTERI" target="DONALD J. TRUMP">
+  <data key="d1">Deputy assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534157-Munisteri-Stephen-P.html</data>
+</edge>
+<edge source="STEPHEN MUNISTERI" target="RAND PAUL"/>
+<edge source="JAMES SCHULTZ" target="DONALD J. TRUMP">
+  <data key="d1">Senior associate counsel</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534346-Shultz-James.html</data>
+</edge>
+<edge source="STEVE KING" target="KELLYANNE CONWAY"/>
+<edge source="TONY CHARLES SOLE" target="DONALD J. TRUMP"/>
+<edge source="GERRIT LANSING" target="DONALD J. TRUMP">
+  <data key="d1">Former Chief Digital Officer</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534042-Lansing-Gerrit.html | http://www.politico.com/blogs/donald-trump-administration/2017/02/gerrit-lansing-trump-digital-chief-ousted-235268</data>
+</edge>
+<edge source="JACK MA" target="CHARLES KUSHNER"/>
+<edge source="ERIC TRUMP" target="DONALD J. TRUMP">
+  <data key="d1">Parent/child</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="ERIC TRUMP" target="IVANKA TRUMP">
+  <data key="d1">Siblings</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="ERIC TRUMP" target="DONALD TRUMP JR.">
+  <data key="d1">Siblings</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="ERIC TRUMP" target="FELIPE YARYURA">
+  <data key="d1">The Argentine real estate developer is said to be friends with the Trump family; Yaryura and Eric Trump were photographed together at Trump's election night party</data>
+  <data key="d2">http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump</data>
+</edge>
+<edge source="ERIC TRUMP" target="JT FOXX"/>
+<edge source="ERIC TRUMP" target="LYNNE M PATTON"/>
+<edge source="ERIC TRUMP" target="ANDREW JOBLON"/>
+<edge source="ERIC TRUMP" target="MICHAEL D. COHEN"/>
+<edge source="ERIC TRUMP" target="DAN SCAVINO"/>
+<edge source="ERIC TRUMP" target="BRIAN ASIDMAN"/>
+<edge source="ERIC TRUMP" target="STEVEN LEVINE"/>
+<edge source="ERIC TRUMP" target="LARRY GLICK"/>
+<edge source="ERIC TRUMP" target="LARA LEE YUNASKA"/>
+<edge source="ERIC TRUMP" target="THOMAS M. SPARICO"/>
+<edge source="ERIC TRUMP" target="CHRISTL MAHFOUZ"/>
+<edge source="ERIC TRUMP" target="BRITTANY HEBERT"/>
+<edge source="ERIC TRUMP" target="ASHLEY THOMPSON SIDMAN"/>
+<edge source="CINDY SIMMS" target="DONALD J. TRUMP">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534338-Simms-Cindy.html</data>
+</edge>
+<edge source="RICHARD GOETTLICH" target="JARED KUSHNER">
+  <data key="d1">Kushner hired him for his real estate company</data>
+  <data key="d2">https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
+</edge>
+<edge source="DON MCGAHN" target="JAMES BURNHAM">
+  <data key="d1">Senior associate counsel</data>
+  <data key="d2">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge source="DON MCGAHN" target="BLAKE DELAPLANE">
+  <data key="d1">Special assistant to the White House Counsel</data>
+  <data key="d2">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge source="DON MCGAHN" target="SHANNON MCGAHN">
+  <data key="d1">Married</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DON MCGAHN" target="ANNIE DONALDSON">
+  <data key="d1">Special Counsel to the President, Chief of Staff to the White House Counsel</data>
+  <data key="d2">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge source="DON MCGAHN" target="DONALD J. TRUMP">
+  <data key="d1">White House Counsel</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DON MCGAHN" target="GREG KATSAS">
+  <data key="d1">Deputy Counsel to the President</data>
+  <data key="d2">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge source="DON MCGAHN" target="DAVID MORRELL">
+  <data key="d1">Associate Counsel to the President</data>
+  <data key="d2">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge source="DON MCGAHN" target="AARON SCHOCK">
+  <data key="d1">McGahn provided legal services for Schock</data>
+  <data key="d2">https://www.documentcloud.org/documents/3535093-McGahn-Donald-F.html</data>
+</edge>
+<edge source="DON MCGAHN" target="TODD CHRISTOPHER YOUNG"/>
+<edge source="DON MCGAHN" target="DAVID BOSSIE"/>
+<edge source="DON MCGAHN" target="KELLYANNE CONWAY"/>
+<edge source="DON MCGAHN" target="PATRICK CADDELL"/>
+<edge source="DON MCGAHN" target="ANDELIZ CASTILLO"/>
+<edge source="DON MCGAHN" target="JOHN CALVIN FLEMING, JR."/>
+<edge source="DON MCGAHN" target="DAVID BRUCE VITTER"/>
+<edge source="DON MCGAHN" target="SEAN CAIRNCROSS"/>
+<edge source="DON MCGAHN" target="STEPHEN BANNON"/>
+<edge source="PATRICIA LEVESQUE" target="BETSY DEVOS"/>
+<edge source="ARRON BANKS" target="ELIZABETH BILNEY"/>
+<edge source="ARRON BANKS" target="ANDY WIGMORE"/>
+<edge source="ARRON BANKS" target="STEPHEN BANNON"/>
+<edge source="MARC LOTTER" target="DONALD J. TRUMP">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3535104-Lotter-Marc.html</data>
+</edge>
+<edge source="ANDY PUZDER" target="DONALD J. TRUMP">
+  <data key="d1">Former nominee for Secretary of Labor</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="ANDY PUZDER" target="WILLIAM P. FOLEY">
+  <data key="d1">Worked together on deal to turn around debts of Carl's Jr. founder, which was a major success in Puzder's career</data>
+  <data key="d2">http://www.insidesources.com/meet-the-fast-food-ceo-trump-picked-as-labor-secretary/</data>
+</edge>
+<edge source="HAROLD G. HAMM" target="SCOTT PRUITT">
+  <data key="d1">Hamm, chief executive of Continental Energy, was Pruitt's 2013 re-election co-chair</data>
+  <data key="d2">http://www.cnbc.com/2016/12/08/scott-pruitt-is-great-pick-to-lead-epa-says-pruitt-ally-harold-hamm.html</data>
+</edge>
+<edge source="JORGE LEIS" target="MICHAEL POMPEO"/>
+<edge source="CHARLES COLLETTA" target="DONALD J. TRUMP"/>
+<edge source="JESSICA DITTO" target="MATTHEW GRISWOLD BEVIN">
+  <data key="d1">Ditto was the communications director for Bevin's office</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534035-Ditto-Jessica.html</data>
+</edge>
+<edge source="JESSICA DITTO" target="DONALD J. TRUMP">
+  <data key="d1">Deputy communications director</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="JESSICA DITTO" target="JUSTIN CLARK"/>
+<edge source="KIMIO NAKAMURA" target="DONALD J. TRUMP"/>
+<edge source="MARC SHORT" target="DONALD J. TRUMP">
+  <data key="d1">Director of legislative affairs</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="MARC SHORT" target="DAVID H. KOCH">
+  <data key="d1">"the Koch brothers’ top political adviser in Washington and a trusted member of their inner circle for five years," per Politico</data>
+  <data key="d2">http://www.politico.com/story/2016/02/marc-short-marco-rubio-219664</data>
+</edge>
+<edge source="MARC SHORT" target="MICHAEL POMPEO"/>
+<edge source="SERGEY I. KISLYAK" target="DONALD J. TRUMP">
+  <data key="d1">The Russian diplomat sat in on Trump foreign policy speech in April 2016</data>
+  <data key="d2">https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html</data>
+</edge>
+<edge source="RANDI LANE" target="DONALD J. TRUMP"/>
+<edge source="CATHERINE BRAY GRIFFITH" target="WELLS GRIFFITH">
+  <data key="d1">Married</data>
+  <data key="d2">https://www.theguardian.com/commentisfree/2017/feb/02/corporate-dark-money-power-atlantic-lobbyists-brexit</data>
+</edge>
+<edge source="RAZ STEINMETZ" target="DANIEL STEINMETZ">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.bloomberg.com/news/articles/2017-04-26/kushners-are-partners-with-one-of-israel-s-wealthiest-families</data>
+</edge>
+<edge source="RAZ STEINMETZ" target="SHLOMO MEICHOR"/>
+<edge source="RAZ STEINMETZ" target="ASSI AREV"/>
+<edge source="RAZ STEINMETZ" target="CHARLES KUSHNER"/>
+<edge source="JAN SCHECK" target="DONALD J. TRUMP"/>
+<edge source="IAIN MAURY CAMPBELL MEIKLEJOHN" target="DONALD J. TRUMP"/>
+<edge source="BERND LEMBCKE" target="DONALD J. TRUMP"/>
+<edge source="THOMAS HUTCHINSON" target="DONALD J. TRUMP"/>
+<edge source="ELVIRA KUDRYASHOVA" target="FELIX SATER">
+  <data key="d1">Sater "agreed to serve as [a director] of a company through which [Kudryashova] would pour $3m into a business venture as part of her efforts to secure a US investor visa," per the Financial Times</data>
+  <data key="d2">https://www.ft.com/content/33285dfa-9231-11e6-8df8-d3778b55a923</data>
+</edge>
+<edge source="ELVIRA KUDRYASHOVA" target="DANIEL RIDLOFF">
+  <data key="d1">Ridloff "agreed to serve as [a director] of a company through which [Kudryashova] would pour $3m into a business venture as part of her efforts to secure a US investor visa," per the Financial Times</data>
+  <data key="d2">https://www.ft.com/content/33285dfa-9231-11e6-8df8-d3778b55a923</data>
+</edge>
+<edge source="ELVIRA KUDRYASHOVA" target="VIKTOR KHRAPUNOV">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.ft.com/content/33285dfa-9231-11e6-8df8-d3778b55a923</data>
+</edge>
+<edge source="IRA SCHNEIDER" target="DONALD J. TRUMP"/>
+<edge source="CHRISTINE CHAO" target="JAMES S.C. CHAO">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick</data>
+</edge>
+<edge source="CHRISTINE CHAO" target="ELAINE CHAO">
+  <data key="d1">Siblings</data>
+  <data key="d2">https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick</data>
+</edge>
+<edge source="GEORGE T. CONWAY III" target="KELLYANNE CONWAY">
+  <data key="d1">Married</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="CHARLES R. SCHWAB" target="BETSY DEVOS"/>
+<edge source="JOHN TALBOTT" target="STEPHEN BANNON"/>
+<edge source="GARY PALMER" target="KELLYANNE CONWAY"/>
+<edge source="ALEX SHNAIDER" target="DONALD J. TRUMP">
+  <data key="d1">"Trump’s primary partner for his lucrative business in Canada," per Newsweek</data>
+  <data key="d2">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge source="ALEX SHNAIDER" target="EDUARD SHIFRIN"/>
+<edge source="STEWART SELBIE" target="DONALD J. TRUMP"/>
+<edge source="VICTOR HEGGELMAN" target="SUSAN POMPEO"/>
+<edge source="STEPHEN BANNON" target="DONALD J. TRUMP">
+  <data key="d1">White House Chief Strategist and Senior Advisor</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="STEPHEN BANNON" target="ERIK PRINCE">
+  <data key="d1">"Prince has a close relationship with Breitbart News and Steve Bannon," per The Intercept</data>
+  <data key="d2">https://theintercept.com/2017/01/17/notorious-mercenary-erik-prince-is-advising-trump-from-the-shadows/</data>
+</edge>
+<edge source="STEPHEN BANNON" target="JENNIFER MERCER">
+  <data key="d1">Bannon served as the Mercer family's "political advisor," per the Washington Post</data>
+  <data key="d2">https://www.washingtonpost.com/graphics/politics/mercer-bannon/</data>
+</edge>
+<edge source="STEPHEN BANNON" target="ROBERT MERCER">
+  <data key="d1">Bannon served as the Mercer family's "political advisor," per the Washington Post</data>
+  <data key="d2">https://www.washingtonpost.com/graphics/politics/mercer-bannon/</data>
+</edge>
+<edge source="STEPHEN BANNON" target="JULIA HAHN">
+  <data key="d1">"Hahn is a protégée of Stephen Bannon," per The New Yorker</data>
+  <data key="d2">http://www.newyorker.com/magazine/2017/02/13/becoming-steve-bannons-bannon</data>
+</edge>
+<edge source="STEPHEN BANNON" target="KELLYANNE CONWAY">
+  <data key="d1">Conway is "buddies" with Bannon, per Elle</data>
+  <data key="d2">http://www.elle.com/culture/career-politics/a43112/kellyanne-conway-profile/</data>
+</edge>
+<edge source="STEPHEN BANNON" target="PATRICK CADDELL">
+  <data key="d1">Bannon and Caddell have "partnered on numerous projects," per The New Yorker</data>
+  <data key="d2">http://www.newyorker.com/magazine/2017/03/27/the-reclusive-hedge-fund-tycoon-behind-the-trump-presidency</data>
+</edge>
+<edge source="STEPHEN BANNON" target="TREVOR DRINKWATER"/>
+<edge source="STEPHEN BANNON" target="KIRK WICKSTROM"/>
+<edge source="STEPHEN BANNON" target="SEAN SPICER"/>
+<edge source="STEPHEN BANNON" target="STEVES RODRIGUEZ"/>
+<edge source="STEPHEN BANNON" target="ALEXANDER NIX"/>
+<edge source="STEPHEN BANNON" target="RONALD ROBINSON"/>
+<edge source="STEPHEN BANNON" target="PETER SCHWEIZER"/>
+<edge source="JOHN GRAY" target="DONALD J. TRUMP">
+  <data key="d1">Part of OMB transition team</data>
+  <data key="d2">http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts</data>
+</edge>
+<edge source="CARLOS ARREDONDO" target="DONALD J. TRUMP"/>
+<edge source="JAMES S.C. CHAO" target="ANGELA CHAO">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick</data>
+</edge>
+<edge source="JAMES S.C. CHAO" target="ELAINE CHAO">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick</data>
+</edge>
+<edge source="WALTER J. &quot;JAY&quot; CLAYTON III" target="DONALD J. TRUMP">
+  <data key="d1">Nominee for SEC Chairman</data>
+  <data key="d2">http://www.newyorker.com/magazine/2017/03/13/donald-trumps-worst-deal</data>
+</edge>
+<edge source="MIKIYASU KAYANUMA" target="DONALD J. TRUMP"/>
+<edge source="ALEXANDER NIX" target="DONALD J. TRUMP">
+  <data key="d1">Worked on presidential campaign. May continue work for the administration.</data>
+  <data key="d2">https://www.theguardian.com/us-news/2016/nov/23/donald-trump-cambridge-analytica-steve-bannon</data>
+</edge>
+<edge source="ALEXANDER NIX" target="STEVE TATHAM"/>
+<edge source="ALEXANDER NIX" target="JULIAN DAVID WHEATLAND"/>
+<edge source="ALEXANDER NIX" target="NIGEL OAKES"/>
+<edge source="ALEXANDER NIX" target="ROGER MICHAEL GABB"/>
+<edge source="ROGER KHAFIF" target="DONALD J. TRUMP">
+  <data key="d1">Told Russian buyers he was a partner in Trump project in Sunny Isles, Fla.</data>
+  <data key="d2">https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html</data>
+</edge>
+<edge source="PAUL WINFREE" target="DONALD J. TRUMP">
+  <data key="d1">Deputy director of the domestic policy council</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534344-Winfree-Paul.html</data>
+</edge>
+<edge source="THOMAS PETERFFY" target="DONALD J. TRUMP"/>
+<edge source="YURY ZAYTSEV" target="SERGEI MILLIAN">
+  <data key="d1">Went on trip to Moscow together in 2011</data>
+  <data key="d2">https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146</data>
+</edge>
+<edge source="JACK WEISSELBERG" target="ALLEN WEISSELBERG">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.nytimes.com/2016/05/24/business/dealbook/donald-trump-relationship-bankers.html?_r=0</data>
+</edge>
+<edge source="JACK WEISSELBERG" target="BRIAN HARRIS"/>
+<edge source="JACK WEISSELBERG" target="DONALD J. TRUMP"/>
+<edge source="XI JINPING" target="TERRY BRANSTAD">
+  <data key="d1">Brandstad and the Chinese president have a "friendship dating back to 1985," per Bloomberg Politics</data>
+  <data key="d2">https://www.bloomberg.com/politics/articles/2016-12-07/trump-said-to-pick-iowa-governor-branstad-as-china-ambassador</data>
+</edge>
+<edge source="NOELLE NIKPOUR" target="ANNIE DONALDSON"/>
+<edge source="BORIS EPSHTEYN" target="DONALD J. TRUMP">
+  <data key="d1">Assistant director of communications</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534046-Epshteyn-Boris.html</data>
+</edge>
+<edge source="JOHN GORE" target="JEFF SESSIONS">
+  <data key="d1">Deputy assistant AG for Civil Rights</data>
+  <data key="d2">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge source="TOSHIO KABAYASHI" target="DONALD J. TRUMP"/>
+<edge source="BETHANY SCULLY" target="DONALD J. TRUMP">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534336-Scully-Bethany.html</data>
+</edge>
+<edge source="IKE PERLMUTTER" target="DONALD J. TRUMP">
+  <data key="d1">Perlmutter "has been informally advising Mr. Trump on veterans issues," per the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge source="CHARLES KUSHNER" target="ESTHER KUSHNER">
+  <data key="d1">Siblings</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge source="CHARLES KUSHNER" target="SERYL KUSHNER">
+  <data key="d1">Married</data>
+  <data key="d2">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge source="CHARLES KUSHNER" target="NICOLE KUSHNER MEYER">
+  <data key="d1">Parent/child</data>
+  <data key="d2">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge source="CHARLES KUSHNER" target="JOSHUA KUSHNER">
+  <data key="d1">Parent/child</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="CHARLES KUSHNER" target="JIM MCGREEVEY">
+  <data key="d1">"the financial force" behind the former governor's campaign, per New York Magazine</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge source="CHARLES KUSHNER" target="MURRAY KUSHNER">
+  <data key="d1">Siblings</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge source="CHARLES KUSHNER" target="DARA ORBACH">
+  <data key="d1">Parent/child</data>
+  <data key="d2">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge source="CHARLES KUSHNER" target="JARED KUSHNER">
+  <data key="d1">Parent/child</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="CHARLES KUSHNER" target="DAVID WILDSTEIN"/>
+<edge source="CHARLES KUSHNER" target="MARK PASQUERELLA"/>
+<edge source="CHARLES KUSHNER" target="JAY WILSON HAAS, JR."/>
+<edge source="CHARLES KUSHNER" target="RYAN ADDISON WILLIAMS"/>
+<edge source="CHARLES KUSHNER" target="HOWARD RUBENSTEIN"/>
+<edge source="CHARLES KUSHNER" target="LAURENT MORALI"/>
+<edge source="CHARLES KUSHNER" target="STEVEN ROTH"/>
+<edge source="CHARLES KUSHNER" target="GEORGE SOROS"/>
+<edge source="CHARLES KUSHNER" target="LEV LEVIEV"/>
+<edge source="CHARLES KUSHNER" target="WU XIAOHUI"/>
+<edge source="CHARLES KUSHNER" target="DONALD J. TRUMP"/>
+<edge source="CHARLES KUSHNER" target="DONALD TRUMP JR."/>
+<edge source="BOB DOLE" target="ROBERT LIGHTHIZER">
+  <data key="d1">Lighthizer was Dole's campaign treasurer in 1996</data>
+  <data key="d2">http://www.pbs.org/newshour/rundown/trump-nominates-robert-lighthizer-u-s-trade-representative/</data>
+</edge>
+<edge source="STEVEN ROTH" target="DONALD J. TRUMP">
+  <data key="d1">Former campaign advisor, going to co-head infrastructure council</data>
+  <data key="d2">http://www.huffingtonpost.com/entry/donald-trump-steven-roth-meeeting_us_587917f8e4b09281d0eaa28e | https://www.wsj.com/articles/donald-trump-asks-richard-lefrak-steven-roth-to-monitor-infrastructure-plans-costs-1484591989 | https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
+</edge>
+<edge source="STEVEN ROTH" target="MICHAEL FASCITELLI"/>
+<edge source="ANAR MAMMADOV" target="ELTON MAMMADOV">
+  <data key="d1">Siblings</data>
+  <data key="d2">http://www.newyorker.com/magazine/2017/03/13/donald-trumps-worst-deal</data>
+</edge>
+<edge source="ANAR MAMMADOV" target="DONALD J. TRUMP"/>
+<edge source="VIKTOR KHRAPUNOV" target="ILYAS KHRAPUNOV">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.ft.com/content/33285dfa-9231-11e6-8df8-d3778b55a923</data>
+</edge>
+<edge source="VIKTOR KHRAPUNOV" target="DONALD J. TRUMP"/>
+<edge source="RECEP TAYYIP ERDOGAN" target="DONALD J. TRUMP">
+  <data key="d1">Erdogan, the president of Turkey and a vocal Trump supporter, met him during the ribbon-cutting of a Trump property</data>
+  <data key="d2">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge source="BEN CARSON" target="DONALD J. TRUMP">
+  <data key="d1">Secretary of HUD</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="BEN CARSON" target="BARRY BENNETT">
+  <data key="d1">Bennet was Carson's presidential campaign manager</data>
+  <data key="d2">https://www.washingtonpost.com/news/post-politics/wp/2016/01/22/former-carson-campaign-manager-barry-bennett-is-quietly-advising-trumps-top-aides/?utm_term=.795d808dc8d2</data>
+</edge>
+<edge source="DMYTRO FIRTASH" target="PAUL MANAFORT">
+  <data key="d1">Manafort and Firtash, "an oligarch who made billions as a middleman for Gazprom," were partners in "a deal to buy the site of the Drake Hotel on Park Avenue in Manhattan," per the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html</data>
+</edge>
+<edge source="PAM MULVANEY" target="MICK MULVANEY">
+  <data key="d1">Married</data>
+  <data key="d2">http://www.usnews.com/news/articles/2011/02/22/10-things-you-didnt-know-about-mick-mulvaney</data>
+</edge>
+<edge source="ROBERT LEE SCOTT" target="DONALD J. TRUMP"/>
+<edge source="ALAN GARTEN" target="DONALD J. TRUMP"/>
+<edge source="URS LEDERMANN" target="DONALD J. TRUMP"/>
+<edge source="GEORGE GIGICOS" target="DONALD J. TRUMP">
+  <data key="d1">Director of advance</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534048-Gigicos-George.html</data>
+</edge>
+<edge source="HUSSAIN ALI SAJWANI" target="DONALD J. TRUMP"/>
+<edge source="MITCH MCCONNELL" target="ANDREW BREMBERG">
+  <data key="d1">Policy advisor and counsel on nominations</data>
+  <data key="d2">https://www.linkedin.com/in/andrew-bremberg-7170938</data>
+</edge>
+<edge source="MITCH MCCONNELL" target="ELAINE CHAO">
+  <data key="d1">Married</data>
+  <data key="d2">http://elainelchao.com/biography/</data>
+</edge>
+<edge source="MITCH MCCONNELL" target="W.E.“ED” BOSARGE">
+  <data key="d1">Major campaign donor</data>
+  <data key="d2">http://www.politico.com/tipsheets/prescription-pulse/2016/05/new-legislation-on-stem-cells-raises-alarm-214069</data>
+</edge>
+<edge source="MITCH MCCONNELL" target="SEAN CAIRNCROSS"/>
+<edge source="OMAROSÉ ONEE MANIGAULT" target="DONALD J. TRUMP">
+  <data key="d1">Assistant to the President and Director of Communications for the Office of Public Liaison</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="OMAROSÉ ONEE MANIGAULT" target="H. B. HICKS">
+  <data key="d1">Mentored by</data>
+  <data key="d2">http://www.omarosa.com/#</data>
+</edge>
+<edge source="JOHN SHALAM" target="DONALD J. TRUMP"/>
+<edge source="MICK MULVANEY" target="DONALD J. TRUMP">
+  <data key="d1">Director of Office of Management and Budget</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="FRANK TORRICELLI" target="JARED KUSHNER"/>
+<edge source="SUSAN KAPLAN" target="DONALD J. TRUMP"/>
+<edge source="MADELEINE WESTERHOUT" target="RHONA GRAFF RICCIO">
+  <data key="d1">Riccio helped train Westerhout, per the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2017/03/27/us/rhona-graff-donald-trump.html?_r=0</data>
+</edge>
+<edge source="MADELEINE WESTERHOUT" target="DONALD J. TRUMP">
+  <data key="d1">Executive assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534343-Westerhout-Madeleine.html</data>
+</edge>
+<edge source="RONALD C. LIEBERMAN" target="DONALD J. TRUMP"/>
+<edge source="MARK SCHECK" target="MICHAEL POMPEO"/>
+<edge source="SEAN CAIRNCROSS" target="REINCE PRIEBUS">
+  <data key="d1">Senior advisor</data>
+  <data key="d2">http://www.politico.com/story/2017/01/trump-transition-white-house-hires-233863</data>
+</edge>
+<edge source="SEAN CAIRNCROSS" target="DONALD J. TRUMP">
+  <data key="d1">Deputy assistant</data>
+  <data key="d2">http://www.politico.com/story/2017/01/trump-transition-white-house-hires-233863</data>
+</edge>
+<edge source="SEAN CAIRNCROSS" target="DAN SULLIVAN"/>
+<edge source="ANNIE DONALDSON" target="AARON SCHOCK">
+  <data key="d1">Provided legal services for</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534049-Donaldson-Ann.html</data>
+</edge>
+<edge source="ANNIE DONALDSON" target="DONALD J. TRUMP"/>
+<edge source="ANNIE DONALDSON" target="RAJ SHAH"/>
+<edge source="ANNIE DONALDSON" target="JAMES BURNHAM"/>
+<edge source="ANNIE DONALDSON" target="RONALD HAROLD JOHNSON"/>
+<edge source="JOSEPH HAGIN" target="DONALD J. TRUMP">
+  <data key="d1">Deputy chief of staff</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534458-Hagin-Joseph.html</data>
+</edge>
+<edge source="MARTIN JAJAN" target="DONALD J. TRUMP"/>
+<edge source="STEPHEN A. FEINBERG" target="DONALD J. TRUMP">
+  <data key="d1">Member of Trump's economic advisory council</data>
+  <data key="d2">https://www.nytimes.com/2017/02/15/us/politics/trump-intelligence-agencies-stephen-feinberg.html</data>
+</edge>
+<edge source="TOM PRICE" target="DONALD J. TRUMP">
+  <data key="d1">Secretary of Health and Human Services</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="GREGORY A. MOERSCHEL" target="DAN COATS"/>
+<edge source="DANIEL M. MCFADDEN" target="MICHAEL P. MELLON"/>
+<edge source="DANIEL M. MCFADDEN" target="GARY K. NG"/>
+<edge source="DANIEL M. MCFADDEN" target="ROBERT F. GRIFFIN"/>
+<edge source="DANIEL M. MCFADDEN" target="KATHLEEN M. MCSWEENEY"/>
+<edge source="DANIEL M. MCFADDEN" target="DONALD J. TRUMP"/>
+<edge source="DANIEL M. MCFADDEN" target="CARL C. ICAHN"/>
+<edge source="ELTON MAMMADOV" target="DONALD J. TRUMP"/>
+<edge source="THOMAS ULRICH BRECHBUHL" target="MICHAEL POMPEO"/>
+<edge source="JOHN SITES" target="DONALD J. TRUMP"/>
+<edge source="JOSE E.B. ANTONIO" target="JOSE ROBERTO &quot;ROBBIE&quot; ANTONIO">
+  <data key="d1">Parent/child</data>
+  <data key="d2">http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html?_r=0</data>
+</edge>
+<edge source="JOSE E.B. ANTONIO" target="DONALD J. TRUMP"/>
+<edge source="RHONA GRAFF RICCIO" target="LUCIUS JOSEPH RICCIO">
+  <data key="d1">Married</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="RHONA GRAFF RICCIO" target="DONALD J. TRUMP">
+  <data key="d1">Assistant</data>
+  <data key="d2">http://www.nytimes.com/1993/04/19/style/weddings-rhona-c-graff-lucius-j-riccio.html</data>
+</edge>
+<edge source="BERNARD R. DIAMOND" target="DONALD TRUMP JR.">
+  <data key="d1">Business partners</data>
+  <data key="d2">Nexis</data>
+</edge>
+<edge source="JOSEPH MEYER" target="NICOLE KUSHNER MEYER">
+  <data key="d1">Married</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2013/01/jared-kushner-names-brother-in-law-observer-ceo.html</data>
+</edge>
+<edge source="JOSEPH MEYER" target="JARED KUSHNER"/>
+<edge source="CONDOLEEZA RICE" target="BETSY DEVOS"/>
+<edge source="RICK PERRY" target="DONALD J. TRUMP">
+  <data key="d1">Secretary of Energy</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="RICK PERRY" target="ANITA THIGPEN PERRY">
+  <data key="d1">Married</data>
+  <data key="d2">http://thehill.com/policy/healthcare/182135-perrys-addition-to-the-white-house-his-wife-health-advocate-anita-perry</data>
+</edge>
+<edge source="RICK PERRY" target="PETER HOLT">
+  <data key="d1">Perry consulted for Holt, after governorship to which Holt gave money</data>
+  <data key="d2">https://www.texastribune.org/2015/07/10/perry-consulting-big-donor-disclosures/</data>
+</edge>
+<edge source="JUSTIN CLARK" target="DONALD J. TRUMP">
+  <data key="d1">Director of inter-governmental affairs</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534079-Clark-Justin.html</data>
+</edge>
+<edge source="JUSTIN CLARK" target="CHRIS CHRISTIE"/>
+<edge source="LINDSAY WALTERS" target="DONALD J. TRUMP">
+  <data key="d1">White House spokeswoman</data>
+  <data key="d2">https://www.bloomberg.com/politics/articles/2017-02-03/trump-trade-pick-could-negotiate-for-industry-of-biggest-client</data>
+</edge>
+<edge source="NICOLAS SARKOZY" target="THOMAS J. BARRACK JR.">
+  <data key="d1">Sarkozy awarded France's Chevalier de la Légion d'Honneur to Barrack</data>
+  <data key="d2">http://colonyinc.com/about#fulltext4</data>
+</edge>
+<edge source="VINCE HALEY" target="DONALD J. TRUMP">
+  <data key="d1">Advisor for policy, strategy, and speechwriting</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534112-Haley-Vincent.html</data>
+</edge>
+<edge source="VINCE HALEY" target="ROSS WORTHINGTON"/>
+<edge source="VINCE HALEY" target="NEWT GINGRICH"/>
+<edge source="FELIPE YARYURA" target="IVANKA TRUMP">
+  <data key="d1">The Argentine real estate developer is said to be friends with the Trump family</data>
+  <data key="d2">http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump</data>
+</edge>
+<edge source="FELIPE YARYURA" target="DONALD TRUMP JR.">
+  <data key="d1">The Argentine real estate developer is said to be friends with the Trump family</data>
+  <data key="d2">http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump</data>
+</edge>
+<edge source="FELIPE YARYURA" target="DONALD J. TRUMP">
+  <data key="d1">The Argentine real estate developer is said to be friends with the Trump family</data>
+  <data key="d2">http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump</data>
+</edge>
+<edge source="FELIPE YARYURA" target="MOISÉS YELLATI"/>
+<edge source="DAVID M. FRIEDMAN" target="DONALD J. TRUMP">
+  <data key="d1">Ambassador designate to Israel</data>
+  <data key="d2">https://www.nytimes.com/2017/02/11/us/politics/jared-kushner-israel.html?smid=tw-nytimesworld&amp;smtyp=cur&amp;_r=1</data>
+</edge>
+<edge source="JAMES MATTIS" target="DONALD J. TRUMP">
+  <data key="d1">Secretary of Defense</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="ARLENE LEVINE" target="DONALD J. TRUMP"/>
+<edge source="ROSS WORTHINGTON" target="DONALD J. TRUMP">
+  <data key="d1">Advisor for policy, strategy, and speechwriting</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534345-Worthington-Ross.html</data>
+</edge>
+<edge source="ARTHUR G. COHEN" target="PAUL MANAFORT">
+  <data key="d1">"negotiated a deal to buy the site of the Drake Hotel on Park Avenue in Manhattan," per the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html</data>
+</edge>
+<edge source="BARBAROS MURATOGL" target="MEHMET ALI YALCINDAG"/>
+<edge source="HAL GOLDMAN" target="DONALD J. TRUMP"/>
+<edge source="CHARLES P. REISS" target="DONALD J. TRUMP"/>
+<edge source="ROBERT KRAFT" target="DONALD J. TRUMP">
+  <data key="d1">A top touchstone outside the White House, according to the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge source="MARK HERBERT" target="MICHAEL POMPEO"/>
+<edge source="KALPESH MEHTA" target="DONALD J. TRUMP">
+  <data key="d1">"exclusive representative of Trump's businesses in India," per Newsweek</data>
+  <data key="d2">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge source="Y. DAVID SCHARF" target="IVANKA TRUMP"/>
+<edge source="TEVFIK ARIF" target="DONALD J. TRUMP"/>
+<edge source="TEVFIK ARIF" target="FELIX SATER"/>
+<edge source="TEVFIK ARIF" target="ALEXANDER MASHKEVICH"/>
+<edge source="TEVFIK ARIF" target="DANIEL RIDLOFF"/>
+<edge source="AYDIN DOGAN" target="MEHMET ALI YALCINDAG">
+  <data key="d1">Father-in-law/son-in-law</data>
+  <data key="d2">http://www.hurriyetdailynews.com/a-major-shake-up-at-dogan-media.aspx?PageID=238&amp;NID=104450&amp;NewsCatID=345</data>
+</edge>
+<edge source="E.J. RIDINGS" target="DONALD J. TRUMP"/>
+<edge source="GEORGE SORIAL" target="DONALD J. TRUMP"/>
+<edge source="SONJA TALESNIK" target="DONALD J. TRUMP"/>
+<edge source="KELLY KEELING HAHN" target="DONALD J. TRUMP"/>
+<edge source="PETER NAVARRO" target="DONALD J. TRUMP">
+  <data key="d1">Head of National Trade Council</data>
+  <data key="d2">http://www.businessinsider.com/peter-navarro-trump-administration-2017-4</data>
+</edge>
+<edge source="DARA ORBACH" target="NICOLE KUSHNER MEYER">
+  <data key="d1">Siblings</data>
+  <data key="d2">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge source="DARA ORBACH" target="JOSHUA KUSHNER">
+  <data key="d1">Siblings</data>
+  <data key="d2">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge source="DARA ORBACH" target="SERYL KUSHNER">
+  <data key="d1">Parent/child</data>
+  <data key="d2">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge source="DARA ORBACH" target="JARED KUSHNER">
+  <data key="d1">Siblings</data>
+  <data key="d2">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge source="KATHLEEN TROIA MCFARLAND" target="DONALD J. TRUMP">
+  <data key="d1">Deputy National Security Advisor</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="RYAN JARMULA" target="DONALD J. TRUMP">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534032-Jarmula-Ryan.html</data>
+</edge>
+<edge source="GARY K. NG" target="MICHAEL P. MELLON"/>
+<edge source="GARY K. NG" target="ROBERT F. GRIFFIN"/>
+<edge source="GARY K. NG" target="KATHLEEN M. MCSWEENEY"/>
+<edge source="GARY K. NG" target="DONALD J. TRUMP"/>
+<edge source="GARY K. NG" target="CARL C. ICAHN"/>
+<edge source="MILES BERGER" target="JARED KUSHNER">
+  <data key="d1">"business partner of the Kushners," per New York Magazine</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge source="MICHAEL D. COHEN" target="DONALD J. TRUMP">
+  <data key="d1">Cohen is Trump's personal attorney</data>
+  <data key="d2">https://www.washingtonpost.com/news/post-politics/wp/2017/01/19/michael-cohen-special-counsel-to-donald-trump-will-follow-him-to-washington/?utm_term=.bea39093a642</data>
+</edge>
+<edge source="ALEXANDER MCMILLAN" target="DONALD J. TRUMP"/>
+<edge source="WENDI DENG MURDOCH" target="GRACE MURDOCH">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge source="WENDI DENG MURDOCH" target="IVANKA TRUMP">
+  <data key="d1">"Close friend," according to the Guardian</data>
+  <data key="d2">https://www.theguardian.com/film/2016/oct/11/wendi-deng-murdoch-rupert-trump-sky-ladder-art-of-cai-guo-qiang</data>
+</edge>
+<edge source="ROBERT KUNOLD, JR." target="DONALD J. TRUMP"/>
+<edge source="AUDREY SCHWARTZ" target="DONALD J. TRUMP"/>
+<edge source="SUSAN FALK" target="DONALD J. TRUMP"/>
+<edge source="VLADIMIR POTANIN" target="DONALD J. TRUMP"/>
+<edge source="GINNI ROMETTY" target="DONALD J. TRUMP">
+  <data key="d1">Member of Trump's Strategic and Policy forum</data>
+  <data key="d2">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge source="ROGER J. STONE, JR." target="DONALD J. TRUMP">
+  <data key="d1">"Longtime adviser," per Politico</data>
+  <data key="d2">http://www.politico.com/story/2015/08/donald-trumps-debate-dirty-trickster-121098</data>
+</edge>
+<edge source="ROGER J. STONE, JR." target="PAUL MANAFORT"/>
+<edge source="ROGER J. STONE, JR." target="PETER G. KELLY"/>
+<edge source="ROGER J. STONE, JR." target="CHARLES R. BLACK, JR."/>
+<edge source="ROGER J. STONE, JR." target="JAMES H. HEALY"/>
+<edge source="STEPHANIE GRISHAM" target="DONALD J. TRUMP">
+  <data key="d1">Deputy press secretary</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534109-Grisham-Stephanie.html</data>
+</edge>
+<edge source="SERGEI MILLIAN" target="DONALD J. TRUMP">
+  <data key="d1">Appeared in a Facebook photo together in 2014</data>
+  <data key="d2">https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146</data>
+</edge>
+<edge source="SERGEI MILLIAN" target="VLADIMIR PUTIN">
+  <data key="d1">Putin awarded Millian a prize in Jan. 2015 for developing ties between Russia and American businesspeople</data>
+  <data key="d2">https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146</data>
+</edge>
+<edge source="SERGEI MILLIAN" target="MIKHAIL MORGULIS"/>
+<edge source="SERGEI MILLIAN" target="JORGE PEREZ"/>
+<edge source="RONNA MCDANIEL" target="DONALD J. TRUMP"/>
+<edge source="ATUL CHORDIA" target="DONALD J. TRUMP"/>
+<edge source="ANDREW WEISS" target="DONALD J. TRUMP"/>
+<edge source="ABE WALLACH" target="DONALD J. TRUMP"/>
+<edge source="LEV LEVIEV" target="VLADIMIR PUTIN">
+  <data key="d1">Described him as a "true friend"</data>
+  <data key="d2">http://www.nytimes.com/2007/09/16/magazine/16Leviev-t.html</data>
+</edge>
+<edge source="MARTIN SORRELL" target="JARED KUSHNER">
+  <data key="d1">Friends</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge source="CARLIN AXELROD" target="DONALD J. TRUMP"/>
+<edge source="SEAN SPICER" target="DONALD J. TRUMP">
+  <data key="d1">White House Press Secretary</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="MANGAL PRABHAT LODHA" target="DONALD J. TRUMP">
+  <data key="d1">Business partners</data>
+  <data key="d2">http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html</data>
+</edge>
+<edge source="ERIC CANTOR" target="BETSY DEVOS"/>
+<edge source="ASHER ABEHSERA" target="JARED KUSHNER">
+  <data key="d1">Partnered with Kushner in Brooklyn projects</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge source="JOSEPH KELLOGG" target="DONALD J. TRUMP">
+  <data key="d1">Chief of staff and executive secretary, National Security Council</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534037-Kellogg-Joseph-K.html</data>
+</edge>
+<edge source="DAN SCAVINO" target="DONALD J. TRUMP">
+  <data key="d1">Director of Social Media, White House</data>
+  <data key="d2">https://www.documentcloud.org/documents/3535097-Scavino-Dan.html</data>
+</edge>
+<edge source="BRIAN BULATAO" target="MICHAEL POMPEO"/>
+<edge source="JEREMY KATZ" target="DONALD J. TRUMP">
+  <data key="d1">Deputy director of the National Economic Council</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534036-Katz-Jeremy.html</data>
+</edge>
+<edge source="SERGEY KISLYAK" target="MICHAEL FLYNN">
+  <data key="d1">"in frequent contact," per Jan. 13, 2017 Associated Press article</data>
+  <data key="d2">http://bigstory.ap.org/article/ba462d64c12d4692b8381cb7076d34ab/ap-source-trump-aide-frequent-contact-russia-envoy</data>
+</edge>
+<edge source="ISABELLE HERTZ" target="DONALD J. TRUMP"/>
+<edge source="F. PHILIP HANDY" target="BETSY DEVOS"/>
+<edge source="CAROLYN SAKOLSKY" target="DONALD J. TRUMP"/>
+<edge source="SETYA NOVANTO" target="HARY TANOESOEDIBJO">
+  <data key="d1">Setya (former speaker of the Indonesian House of Representatives) is a "good friend" of Hary (a Trump partner on Indonesia resorts), per the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2016/12/31/world/asia/indonesia-donald-trump-resort.html?_r=0</data>
+</edge>
+<edge source="REX TILLERSON" target="DONALD J. TRUMP">
+  <data key="d1">Secretary of State</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="REX TILLERSON" target="IGOR SECHIN">
+  <data key="d1">"Tillerson, the CEO of ExxonMobil, has a close and personal relationship with Sechin dating back over a decade," per the Washington Post</data>
+  <data key="d2">https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71</data>
+</edge>
+<edge source="REX TILLERSON" target="VLADIMIR PUTIN">
+  <data key="d1">In 2012, Putin awarded Order of Friendship to Tillerson</data>
+  <data key="d2">http://www.politico.com/magazine/story/2016/12/rex-tillerson-exxon-putin-russia-ties-friend-214515</data>
+</edge>
+<edge source="REX TILLERSON" target="ALEXANDER NOVAK">
+  <data key="d1">"Tillerson lowered his profile in Russia but continued to meet with non-sanctioned high-level Russian officials in Moscow, including Russian Energy Minister Alexander Novak," per the Washington Post</data>
+  <data key="d2">https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71</data>
+</edge>
+<edge source="REX TILLERSON" target="WILBUR ROSS"/>
+<edge source="REX TILLERSON" target="ELAINE CHAO"/>
+<edge source="REX TILLERSON" target="PAUL MANAFORT"/>
+<edge source="ARAS AGALAROV" target="EMIN AGALAROV">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html?utm_term=.0cb035ebfc6b</data>
+</edge>
+<edge source="ARAS AGALAROV" target="DONALD J. TRUMP">
+  <data key="d1">The billionaire real estate developer says he befriended Trump, and also has served as a liaison between Trump and Putin</data>
+  <data key="d2">https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html | http://www.forbes.com/profile/aras-agalarov/</data>
+</edge>
+<edge source="DAVID THOMAS SPENCER" target="DONALD J. TRUMP"/>
+<edge source="MARK BENNETT TROY" target="DONALD J. TRUMP"/>
+<edge source="CHRISTINE CICCONE" target="DONALD J. TRUMP">
+  <data key="d1">"Leader" in the transition team per CNN</data>
+  <data key="d2">http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/</data>
+</edge>
+<edge source="NEWT GINGRICH" target="DONALD J. TRUMP">
+  <data key="d1">A top touchstone outside the White House, according to the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge source="TRICIA HOLLOWAY" target="DONALD J. TRUMP"/>
+<edge source="CAROLE HANKIN" target="DONALD J. TRUMP"/>
+<edge source="CARTER PAGE" target="DONALD J. TRUMP">
+  <data key="d1">Foreign policy adviser</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="MICHAEL KOVNER" target="DONALD J. TRUMP"/>
+<edge source="TATSUYA MATSUURA" target="DONALD J. TRUMP"/>
+<edge source="MICHAEL P. MELLON" target="ROBERT F. GRIFFIN"/>
+<edge source="MICHAEL P. MELLON" target="KATHLEEN M. MCSWEENEY"/>
+<edge source="MICHAEL P. MELLON" target="DONALD J. TRUMP"/>
+<edge source="MICHAEL P. MELLON" target="CARL C. ICAHN"/>
+<edge source="RONALD ROBINSON" target="PETER SCHWEIZER"/>
+<edge source="JARROD P. AGEN" target="RICK SNYDER">
+  <data key="d1">Former chief of staff</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html</data>
+</edge>
+<edge source="JARROD P. AGEN" target="DONALD J. TRUMP">
+  <data key="d1">Deputy assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html</data>
+</edge>
+<edge source="CARL C. ICAHN" target="DONALD J. TRUMP">
+  <data key="d1">Special advisor</data>
+  <data key="d2">http://fortune.com/2016/12/21/donald-trump-carl-icahn-special-adviser-regulations/</data>
+</edge>
+<edge source="CARL C. ICAHN" target="ROBERT F. GRIFFIN"/>
+<edge source="CARL C. ICAHN" target="KATHLEEN M. MCSWEENEY"/>
+<edge source="DONALD J. TRUMP" target="ELENA GORLOVA">
+  <data key="d1">Gorlova bought a Trump penthouse in Florida</data>
+  <data key="d2">https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="CHRIS CHRISTIE">
+  <data key="d1">Former leader of the presidential transition team</data>
+  <data key="d2">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="BARRY BENNETT">
+  <data key="d1">"Informal advisor to the Donald Trump campaign," per the Washington Post</data>
+  <data key="d2">https://www.washingtonpost.com/news/post-politics/wp/2016/01/22/former-carson-campaign-manager-barry-bennett-is-quietly-advising-trumps-top-aides/?utm_term=.795d808dc8d2</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="BILL MCGINLEY">
+  <data key="d1">Deputy assistant</data>
+  <data key="d2">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JASON D. MEISTER">
+  <data key="d1">Worked on Trump's NY campaign, goes on Fox News as a Trump surrogate</data>
+  <data key="d2">https://therealdeal.com/issues_articles/whos-jumping-ship/ | http://www.jasondmeister.com/media/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="TIMOTHY PATAKI">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534160-Pataki-Timothy-a-New-Entrant-278-2017.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="RICK DEARBORN">
+  <data key="d1">Deputy chief of staff for legislative and intergovernmental affairs</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ROBERT MERCER">
+  <data key="d1">Major donor</data>
+  <data key="d2">https://www.publicintegrity.org/2016/12/02/20504/what-we-knew-about-donald-trump-s-inner-circle-when-we-knew-it</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="SARAH MAKIN">
+  <data key="d1">Deputy assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3535103-Makin-Sarah.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="BEN HOWARD">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534135-Howard-Benjamin.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="RAJ SHAH">
+  <data key="d1">Deputy communications director</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JAMIE DIMON">
+  <data key="d1">Member of Trump's Strategic and Policy forum</data>
+  <data key="d2">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="TERRY BRANSTAD">
+  <data key="d1">Nominee for Ambassador to China</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="UTTAM DHILLON">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534050-Dhillon-Uttam.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="THOMAS PYLE">
+  <data key="d1">Head of the Department of Energy transition team</data>
+  <data key="d2">http://www.latimes.com/politics/la-na-pol-trump-kochs-climate-20161205-story.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JOHN EISENBERG">
+  <data key="d1">Deputy assistant</data>
+  <data key="d2">https://www.whitehouse.gov/the-press-office/2017/02/02/white-house-national-security-advisor-announces-nsc-senior-staff-0</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="MICHAEL J. ELLIS">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534059-Ellis-Michael-J.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="DONALD TRUMP JR.">
+  <data key="d1">Parent/child</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="BRIAN BURNS">
+  <data key="d1">Ambassador to Ireland</data>
+  <data key="d2">https://www.bostonglobe.com/news/politics/2017/01/11/donald-trump-taps-mar-lago-pal-with-massachusetts-ties-for-irish-ambassador-brian-burns/Jt2g5aX1CeVvA3O4RbrDMN/story.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="EDWIN MEESE">
+  <data key="d1">"Leader" in the transition team per CNN</data>
+  <data key="d2">http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="IVANKA TRUMP">
+  <data key="d1">Parent/child</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ANDELIZ CASTILLO">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534453-Castillo-Andeliz.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="SAM NUNBERG">
+  <data key="d1">Former adviser</data>
+  <data key="d2">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JENNIFER KORN">
+  <data key="d1">Deputy director</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534039-Korn-Jennifer.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="REINCE PRIEBUS">
+  <data key="d1">White House Chief of Staff</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="MICHAEL POMPEO">
+  <data key="d1">Director of CIA</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="COREY LEWANDOWSKI">
+  <data key="d1">Former campaign manager</data>
+  <data key="d2">http://www.politico.com/blogs/on-media/2017/01/corey-lewandowski-joins-conservative-news-network-as-commentator-233559</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="TOM BOSSERT">
+  <data key="d1">Homeland Security Advisor</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="CURTIS DUBAY">
+  <data key="d1">Part of Treasury Department transition team</data>
+  <data key="d2">http://thehill.com/policy/finance/307066-trump-taps-economists-investors-for-transition-team</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ROBERT LIGHTHIZER">
+  <data key="d1">Nominee for U.S. Trade Representative</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="DINA POWELL">
+  <data key="d1">Assistant to the president and senior counselor for economic initiatives</data>
+  <data key="d2">https://www.bloomberg.com/politics/articles/2017-01-12/goldman-sachs-s-dina-powell-named-as-trump-s-economic-assistant</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ELAINE CHAO">
+  <data key="d1">Secretary of Transportation</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JOHN F. KELLY">
+  <data key="d1">Secretary of Department of Homeland Security</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JULIA HAHN">
+  <data key="d1">Deputy political strategist</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534111-Hahn-Julia.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="LINDA MCMAHON">
+  <data key="d1">Administrator of the Small Business Administration</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="EDWIN FEULNER">
+  <data key="d1">"Leader" in the transition team per CNN</data>
+  <data key="d2">http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="PAUL MANAFORT">
+  <data key="d1">Former campaign manager</data>
+  <data key="d2">http://www.cnn.com/2016/08/19/politics/donald-trump-campaign-chairman-paul-manafort-resigns/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="SONNY PERDUE">
+  <data key="d1">Secretary of Agriculture</data>
+  <data key="d2">https://www.nytimes.com/2017/01/18/us/politics/sonny-perdue-agriculture-secretary.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="CHRISTOPHER RUDDY">
+  <data key="d1">"One of Trump's longtime friends," according to the Washington Post</data>
+  <data key="d2">https://www.washingtonpost.com/news/powerpost/wp/2017/02/12/trump-friend-says-priebus-is-in-way-over-his-head/ | http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ELON MUSK">
+  <data key="d1">Member of Trump's Strategic and Policy forum</data>
+  <data key="d2">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="PHIL RUFFIN">
+  <data key="d1">"Mr. Trump has 20-odd business partners, but none is closer to him than Mr. Ruffin," per the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ASHLEY MARQUIS">
+  <data key="d1">Chief of staff of the National Economic Council</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534134-Marquis-Ashley.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JOYCE MEYER">
+  <data key="d1">Deputy assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534156-Meyer-Joyce-Y.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="TRAVIS KALANICK">
+  <data key="d1">Former member of Trump's Strategic and Policy forum</data>
+  <data key="d2">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/ | http://www.recode.net/2017/2/2/14490950/travis-kalanick-uber-ceo-leaves-donald-trump-advisory-council</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="MICHAEL FASCITELLI">
+  <data key="d1">Fascitelli is CEO of Vornado Realty Trust and donated the maximum to Trump's campaign</data>
+  <data key="d2">https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="SAM CLOVIS">
+  <data key="d1">Former senior policy advisor on campaign</data>
+  <data key="d2">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="PRINCE ALWALEED BIN TALALTHE">
+  <data key="d1">"the billionaire [...] aided Trump during his corporate bankruptcies in the 1990s by purchasing his yacht, which provided him with desperately needed cash," per Newsweek</data>
+  <data key="d2">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ALEXANDER ACOSTA">
+  <data key="d1">Nominee for Labor Secretary</data>
+  <data key="d2">http://abcnews.go.com/Politics/alexander-acosta-trumps-labor-secretary-nominee/story?id=45541559</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="RYAN ZINKE">
+  <data key="d1">Secretary of Interior</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="STEPHEN MILLER">
+  <data key="d1">Senior Advisor to the President for Policy</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="MELANIA TRUMP">
+  <data key="d1">Married</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="EMIN AGALAROV">
+  <data key="d1">The Russian pop singer, son of billionaire real estate developer Aras Agalarov, says he befriended Trump</data>
+  <data key="d2">https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html | https://www.youtube.com/watch?v=iuZUNjFsgS8</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="STEPHEN B. MEISTER">
+  <data key="d1">Meister was Trump's attorney during a 2013 ethics suit of the NY AG</data>
+  <data key="d2">http://www.nydailynews.com/blogs/dailypolitics/donald-trump-set-file-ethics-complaint-tuesday-ny-ag-eric-schneiderman-blog-entry-1.1697386 | http://www.newsweek.com/2015/10/30/trumps-big-atlantic-city-dump-385427.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="KATHRYN TALENTO">
+  <data key="d1">Special advisor</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534341-Talento-Kathryn.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="REED S. CORDISH">
+  <data key="d1">Assistant to the President for intragovernmental and technology initiatives</data>
+  <data key="d2">http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="INDRA NOOYI">
+  <data key="d1">Member of Trump's Strategic and Policy forum</data>
+  <data key="d2">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="MARC E. KASOWITZ">
+  <data key="d1">Has represented "President Donald J. Trump in a wide range of litigation matters for over 15 years," per bio</data>
+  <data key="d2">http://www.kasowitz.com/marc-e-kasowitz/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="CLIFF SIMS">
+  <data key="d1">Director of White House message strategy</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534339-Sims-Cliff.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="SHAHIRA KNIGHT">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534038-Knight-Shahira-E.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JEFF SESSIONS">
+  <data key="d1">Attorney General</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="WELLS GRIFFITH">
+  <data key="d1">Battleground states director for Trump campaign, senior adviser for the Department of Energy</data>
+  <data key="d2">http://www.politico.com/story/2017/01/trumps-shadow-cabinet-234088 | https://www.documentcloud.org/documents/3460899-Wells-Griffith-LinkedIn-2017-02-13.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JASON D. GREENBLATT">
+  <data key="d1">Special Representative for International Negotiations</data>
+  <data key="d2">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="SCOTT PRUITT">
+  <data key="d1">Administrator of the Environmental Protection Agency</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ALEXANDER ANGELSON">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534231-Angelson-Alexander.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ANDREW BREMBERG">
+  <data key="d1">Domestic policy advisor</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="HELEN FERRE">
+  <data key="d1">Director media affairs</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534068-Ferre-Helen.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="BETSY DEVOS">
+  <data key="d1">Secretary of Education</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JOHN MCENTEE">
+  <data key="d1">Personal aide to the President</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="MICHAEL FLYNN">
+  <data key="d1">National Security Advisor</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="OLEG MISERVA">
+  <data key="d1">Miserva bought a Trump penthouse in Florida</data>
+  <data key="d2">https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="DAN COATS">
+  <data key="d1">Director of National Intelligence</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="MIKE BASELICE">
+  <data key="d1">Pollster for Trump's presidential campaign</data>
+  <data key="d2">https://www.texastribune.org/2016/07/01/trump-campaign-turns-texas-political-talent/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="RUSS VOUGHT">
+  <data key="d1">Part of OMB transition team</data>
+  <data key="d2">http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="VICTOR PINCHUK">
+  <data key="d1">Trump made video appearance for Pinchuk's convention</data>
+  <data key="d2">https://www.buzzfeed.com/paulmcleod/trump-foundation-received-150000-donation-in-exchange-for-20?utm_term=.wtQZdJa2V#.llzLxNkYw</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="MEHMET ALI YALCINDAG">
+  <data key="d1">Business partners</data>
+  <data key="d2">http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="THOMAS J. BARRACK JR.">
+  <data key="d1">Inauguration committee chairman</data>
+  <data key="d2">https://www.donaldjtrump.com/press-releases/president-elect-trump-announces-presidentialinaugural-committee-leader</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ADO MACHIDA">
+  <data key="d1">Director of policy implementation for Trump transition team</data>
+  <data key="d2">http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/ | https://www.linkedin.com/in/ado-machida-68a9a64</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ERIC UELAND">
+  <data key="d1">"Leader" in the transition team per CNN</data>
+  <data key="d2">http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ALLEN WEISSELBERG">
+  <data key="d1">"One of Donald Trump's longtime confidants," per the Wall Street Journal</data>
+  <data key="d2">http://blogs.wsj.com/cfo/2016/11/05/donald-trumps-loyal-numbers-man/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="AJIT PAI">
+  <data key="d1">Appointed chairman of the Federal Communications Commission</data>
+  <data key="d2">http://www.usatoday.com/story/tech/news/2017/01/23/new-fcc-chairman-ajit-pai-no-net-neutrality-fan/96967372/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="BILL STEPIEN">
+  <data key="d1">White House political director</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="STEVEN N. CHEUNG">
+  <data key="d1">Assistant communications director</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534333-Cheung-Steven-N.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="ROBERT GOAD">
+  <data key="d1">Special assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534080-Goad-Robert.html</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="SEAN HANNITY">
+  <data key="d1">A top touchstone outside the White House, according to the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="BRIAN BAUDREAU">
+  <data key="d1">Former driver</data>
+  <data key="d2">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JAMES SHERK">
+  <data key="d1">White House Domestic Policy Council labor and employment advisor</data>
+  <data key="d2">https://www.bna.com/trumps-new-labor-n57982084346/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="DAVID SHULKIN">
+  <data key="d1">Secretary of Veterans Affairs</data>
+  <data key="d2">http://www.usnews.com/news/national-news/articles/2017-02-09/10-things-you-didnt-know-about-david-shulkin</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="STEPHEN A. SCHWARZMAN">
+  <data key="d1">Chair of Trump's Strategic and Policy forum</data>
+  <data key="d2">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JARED KUSHNER">
+  <data key="d1">Senior adviser</data>
+  <data key="d2">https://www.washingtonpost.com/news/post-politics/wp/2017/01/09/tumps-son-in-law-jared-kushner-expected-to-join-white-house-as-a-senior-adviser/?utm_term=.a3958e1d3829</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="GEORGE E. NORCROSS III">
+  <data key="d1">"whose friendship with Mr. Trump dates to the president’s Atlantic City years," per the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2017/02/18/us/mar-a-lago-trump-ethics-winter-white-house.html?_r=0</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="WILBUR ROSS">
+  <data key="d1">Secretary of Commerce</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="KELLYANNE CONWAY">
+  <data key="d1">White House Counselor</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="JOE HAGIN">
+  <data key="d1">Deputy chief of staff for operations</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="DONALD J. TRUMP" target="AVRAHM BERKOWITZ"/>
+<edge source="DONALD J. TRUMP" target="RICK GATES"/>
+<edge source="DONALD J. TRUMP" target="BOB PADUCHIK"/>
+<edge source="DONALD J. TRUMP" target="JEN PAVLIK"/>
+<edge source="DONALD J. TRUMP" target="JAMES BURNHAM"/>
+<edge source="DONALD J. TRUMP" target="ANDREA SCHLOSSBERG"/>
+<edge source="DONALD J. TRUMP" target="ROBERT BERG"/>
+<edge source="DONALD J. TRUMP" target="RICHARD HOROWITZ"/>
+<edge source="DONALD J. TRUMP" target="JANE SHALAM"/>
+<edge source="DONALD J. TRUMP" target="HARVEY KROIZ"/>
+<edge source="DONALD J. TRUMP" target="MARTIN SCHWARTZ"/>
+<edge source="DONALD J. TRUMP" target="JANET WEINER"/>
+<edge source="DONALD J. TRUMP" target="ROBERT FALK"/>
+<edge source="DONALD J. TRUMP" target="HEATHER RINKUS"/>
+<edge source="DONALD J. TRUMP" target="ROBERT SHIPMAN"/>
+<edge source="DONALD J. TRUMP" target="CHRISTINE FOTI"/>
+<edge source="DONALD J. TRUMP" target="FRANK FOTI"/>
+<edge source="DONALD J. TRUMP" target="LAETITIA KOCH"/>
+<edge source="DONALD J. TRUMP" target="CLIFFORD LANE"/>
+<edge source="DONALD J. TRUMP" target="ANNA MARIA LEDERMANN"/>
+<edge source="DONALD J. TRUMP" target="GIL COHEN"/>
+<edge source="DONALD J. TRUMP" target="SOPHIA BARATASHVILI"/>
+<edge source="DONALD J. TRUMP" target="THOMAS FUCHS"/>
+<edge source="DONALD J. TRUMP" target="JEFF GREENE"/>
+<edge source="DONALD J. TRUMP" target="ANAND PATEL"/>
+<edge source="DONALD J. TRUMP" target="PHILIP NICOZISIS"/>
+<edge source="DONALD J. TRUMP" target="SUSAN MILLER"/>
+<edge source="DONALD J. TRUMP" target="LINDA TALARICO"/>
+<edge source="DONALD J. TRUMP" target="RICHARD ARON"/>
+<edge source="DONALD J. TRUMP" target="LAWRENCE ROLNICK"/>
+<edge source="DONALD J. TRUMP" target="HEIDI HOROWITZ"/>
+<edge source="DONALD J. TRUMP" target="JEAN DOYEN DE MONTAILLOU"/>
+<edge source="DONALD J. TRUMP" target="GERALD HERTZ"/>
+<edge source="DONALD J. TRUMP" target="LAETITIA RITTMEISTER"/>
+<edge source="DONALD J. TRUMP" target="KIMBERLY SORRENTINO"/>
+<edge source="DONALD J. TRUMP" target="MARTIN SCHLOSSBERG"/>
+<edge source="DONALD J. TRUMP" target="MICA MOSBACHER"/>
+<edge source="DONALD J. TRUMP" target="THEODORE BERMAN"/>
+<edge source="DONALD J. TRUMP" target="WILLIAM I. KOCH"/>
+<edge source="DONALD J. TRUMP" target="KATHY CARR"/>
+<edge source="DONALD J. TRUMP" target="BARBARA KROIZ"/>
+<edge source="DONALD J. TRUMP" target="JENNIFER ZELMAN"/>
+<edge source="DONALD J. TRUMP" target="RICHARD BRUDNER"/>
+<edge source="DONALD J. TRUMP" target="JULIA SHEN"/>
+<edge source="DONALD J. TRUMP" target="DIANE LOKEY FARB"/>
+<edge source="DONALD J. TRUMP" target="ANDREW GREENBAUM"/>
+<edge source="DONALD J. TRUMP" target="ROBERTA BRUDNER"/>
+<edge source="DONALD J. TRUMP" target="MARC SOLOMON"/>
+<edge source="DONALD J. TRUMP" target="WHITNEY SCHNEIDER"/>
+<edge source="DONALD J. TRUMP" target="JANE SHIPMAN"/>
+<edge source="DONALD J. TRUMP" target="GLENN KAPLAN"/>
+<edge source="DONALD J. TRUMP" target="JOSEPH HANKIN"/>
+<edge source="DONALD J. TRUMP" target="RAUL BERNL-MORA"/>
+<edge source="DONALD J. TRUMP" target="GARY TALARICO"/>
+<edge source="DONALD J. TRUMP" target="PAULA LEED"/>
+<edge source="DONALD J. TRUMP" target="PAUL GERVAIS"/>
+<edge source="DONALD J. TRUMP" target="MARI ARREDONDO"/>
+<edge source="DONALD J. TRUMP" target="DANIEL BOUAZIZ"/>
+<edge source="DONALD J. TRUMP" target="BILL BELICHICK"/>
+<edge source="DONALD J. TRUMP" target="DEBORAH ROBINSON"/>
+<edge source="DONALD J. TRUMP" target="TIFFANY ISAACS"/>
+<edge source="DONALD J. TRUMP" target="HOWIE CARR"/>
+<edge source="DONALD J. TRUMP" target="CAROL GLAZER"/>
+<edge source="DONALD J. TRUMP" target="ARTHUR LEVINE"/>
+<edge source="DONALD J. TRUMP" target="ROBERT ZELMAN"/>
+<edge source="DONALD J. TRUMP" target="EDWARD ROBINSON"/>
+<edge source="DONALD J. TRUMP" target="KATHLEEN FUCHS"/>
+<edge source="DONALD J. TRUMP" target="JOSEPH I. LIEBERMAN"/>
+<edge source="DONALD J. TRUMP" target="ERIC DANZIGER"/>
+<edge source="DONALD J. TRUMP" target="KENNETH CHARLES ROSE"/>
+<edge source="DONALD J. TRUMP" target="TAMIR SAPIR"/>
+<edge source="DONALD J. TRUMP" target="LIZEBETH KYPRISLIDIS"/>
+<edge source="DONALD J. TRUMP" target="JO ALLEN PATTON"/>
+<edge source="DONALD J. TRUMP" target="SHAWN MCCABE"/>
+<edge source="DONALD J. TRUMP" target="SAGAR CHORDIA"/>
+<edge source="DONALD J. TRUMP" target="ABDUL WAHID AL ULAMA"/>
+<edge source="DONALD J. TRUMP" target="ALAN JOHN ROGERS"/>
+<edge source="DONALD J. TRUMP" target="MICHAEL BURNS NEILSON"/>
+<edge source="DONALD J. TRUMP" target="MICHAEL PETER WALE"/>
+<edge source="DONALD J. TRUMP" target="TAKASHI NIINO"/>
+<edge source="DONALD J. TRUMP" target="HITOSHI MATSUURA"/>
+<edge source="DONALD J. TRUMP" target="JOYCE GRIME"/>
+<edge source="DONALD J. TRUMP" target="ROBERT COTTER"/>
+<edge source="DONALD J. TRUMP" target="HAMZA ALI ABDULLATIF MUSTAFA"/>
+<edge source="DONALD J. TRUMP" target="MICHIHIRO CHIKUBU"/>
+<edge source="DONALD J. TRUMP" target="STEFAAN HAEGEMAN"/>
+<edge source="DONALD J. TRUMP" target="THEODORE WILLIAM DARNELL"/>
+<edge source="DONALD J. TRUMP" target="MICHAEL MUELLER"/>
+<edge source="DONALD J. TRUMP" target="IAN ALISTAIR HUMPHRIES RUSS"/>
+<edge source="DONALD J. TRUMP" target="CHRISTOPHER JOHN ROUSE"/>
+<edge source="DONALD J. TRUMP" target="KENNETH JOHN MILLAR"/>
+<edge source="DONALD J. TRUMP" target="JAMES ROBERT WILL"/>
+<edge source="DONALD J. TRUMP" target="MALLORY HUNTER"/>
+<edge source="DONALD J. TRUMP" target="KATIE WALSH"/>
+<edge source="DONALD J. TRUMP" target="FELIX SATER"/>
+<edge source="DONALD J. TRUMP" target="DIANNA BALABON"/>
+<edge source="DONALD J. TRUMP" target="BOBBY BURCHFIELD"/>
+<edge source="DONALD J. TRUMP" target="LARRY GLICK"/>
+<edge source="DONALD J. TRUMP" target="MICHELLE CARLSON"/>
+<edge source="DONALD J. TRUMP" target="JEFF WAGONER"/>
+<edge source="DONALD J. TRUMP" target="MUKEMMEL SARIMSAKCI"/>
+<edge source="DONALD J. TRUMP" target="RUSSELL FLICKER"/>
+<edge source="DONALD J. TRUMP" target="MATTHEW CALAMARI"/>
+<edge source="DONALD J. TRUMP" target="SARA MARTENS"/>
+<edge source="DONALD J. TRUMP" target="MICHAEL J. BOCCIO"/>
+<edge source="DONALD J. TRUMP" target="MATTHEW CALAMARI, JR."/>
+<edge source="DONALD J. TRUMP" target="DANIEL RIDLOFF"/>
+<edge source="DONALD J. TRUMP" target="LEIB WALDMAN"/>
+<edge source="DONALD J. TRUMP" target="CHEN SITING AKA CHARLYNE CHEN"/>
+<edge source="DONALD J. TRUMP" target="PAVEL FUKS"/>
+<edge source="DONALD J. TRUMP" target="MADHUKAR TULSI"/>
+<edge source="DONALD J. TRUMP" target="ANNE-MARIE DONOGHUE"/>
+<edge source="DONALD J. TRUMP" target="ALEXANDER MASHKEVICH"/>
+<edge source="DONALD J. TRUMP" target="ROBERT F. GRIFFIN"/>
+<edge source="DONALD J. TRUMP" target="KATHLEEN M. MCSWEENEY"/>
+<edge source="DONALD J. TRUMP" target="TIAH JOO KIM"/>
+<edge source="DONALD J. TRUMP" target="MARK BURNETT"/>
+<edge source="DONALD J. TRUMP" target="GIORGI RAMISHVILI"/>
+<edge source="DONALD J. TRUMP" target="ANNIE VELTRI"/>
+<edge source="DONALD J. TRUMP" target="PAULO FIGUEIREDO FILHO"/>
+<edge source="MARK BURNETT" target="ROMA DOWNEY">
+  <data key="d1">Married</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="WILBUR ROSS" target="JAMES UTHMEIER">
+  <data key="d1">Special advisor</data>
+  <data key="d2">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge source="WILBUR ROSS" target="ELAINE CHAO"/>
+<edge source="RICK DAVIS" target="PAUL MANAFORT"/>
+<edge source="MICHELLE BACHMANN" target="STEPHEN MILLER">
+  <data key="d1">Worked for her</data>
+  <data key="d2">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge source="JOHN KYL" target="JEFF SESSIONS">
+  <data key="d1">Kyl was Sessions's "sherpa" for confirmation hearings</data>
+  <data key="d2">http://www.azcentral.com/story/news/politics/azdc/2017/01/13/jon-kyl-helping-jeff-sessions-confirmation-hearing-attorney-general/96558516/</data>
+</edge>
+<edge source="YOUSEF AL-OTAIBA" target="THOMAS J. BARRACK JR.">
+  <data key="d1">"Friend" per the New York Times</data>
+  <data key="d2">https://www.nytimes.com/2017/02/11/us/politics/jared-kushner-israel.html?smid=tw-nytimesworld&amp;smtyp=cur&amp;_r=1</data>
+</edge>
+<edge source="JOHN C. PITTENGER" target="MICHAEL POMPEO"/>
+<edge source="KEN KURSON" target="JARED KUSHNER"/>
+<edge source="CHRIS CHRISTIE" target="DAVID WILDSTEIN">
+  <data key="d1">Christie and Wildstein went to high school together, and Christie appointed Wildstein to a director position at the Port Authority</data>
+  <data key="d2">http://nymag.com/daily/intelligencer/2016/09/david-wildstein-chris-christie-bridgegate-trial.html</data>
+</edge>
+<edge source="CHRIS CHRISTIE" target="BILL STEPIEN">
+  <data key="d1">Former deputy chief of staff</data>
+  <data key="d2">http://www.politico.com/story/2017/01/bill-stepien-donald-trump-christie-233199</data>
+</edge>
+<edge source="AVRAHM BERKOWITZ" target="JARED KUSHNER">
+  <data key="d1">Assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534232-Berkowitz-Avrahm-J.html</data>
+</edge>
+<edge source="BARRY BENNETT" target="COREY LEWANDOWSKI"/>
+<edge source="PATRICK CADDELL" target="ROBERT MERCER">
+  <data key="d1">"At least as far back as 2013 [Caddell] has been a contractor for one of Trump’s biggest financial backers: Robert Mercer," per The New Yorker</data>
+  <data key="d2">http://www.newyorker.com/magazine/2017/03/27/the-reclusive-hedge-fund-tycoon-behind-the-trump-presidency</data>
+</edge>
+<edge source="PATRICK CADDELL" target="BOB PERKINS"/>
+<edge source="PATRICK CADDELL" target="SCOTT MILLER"/>
+<edge source="FELIX SATER" target="ALEXANDER MASHKEVICH"/>
+<edge source="FELIX SATER" target="DANIEL RIDLOFF"/>
+<edge source="SUSAN POMPEO" target="MICHAEL POMPEO">
+  <data key="d1">Married</data>
+  <data key="d2">http://pompeo.house.gov/biography/</data>
+</edge>
+<edge source="SUSAN POMPEO" target="TIM MOL"/>
+<edge source="SUSAN POMPEO" target="JOSE GARCIA"/>
+<edge source="SUSAN POMPEO" target="XAVIER DEU"/>
+<edge source="SUSAN POMPEO" target="PHILLIP NEUMAN"/>
+<edge source="VIKTOR TKACHUK" target="IVANKA TRUMP">
+  <data key="d1">Met in 2006, when Tkachuk was an adviser to the Ukrainian president</data>
+  <data key="d2">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge source="VIKTOR TKACHUK" target="DONALD TRUMP JR.">
+  <data key="d1">Met in 2006, when Tkachuk was an adviser to the Ukrainian president</data>
+  <data key="d2">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge source="RICK DEARBORN" target="JEFF SESSIONS">
+  <data key="d1">Former chief of staff</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge source="JOSEPH SITT" target="JARED KUSHNER"/>
+<edge source="ROBERT MERCER" target="NIGEL FARAGE">
+  <data key="d1">"Close friends," per the Guardian</data>
+  <data key="d2">https://www.theguardian.com/politics/2017/mar/04/nigel-oakes-cambridge-analytica-what-role-brexit-trump</data>
+</edge>
+<edge source="TUCKER CARLSON" target="STEPHEN MILLER">
+  <data key="d1">Miller set up meeting between Carlson and Sessions</data>
+  <data key="d2">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge source="JUSTIN WENIGER" target="JARED KUSHNER">
+  <data key="d1">Friends</data>
+  <data key="d2">http://www.businessinsider.com/jared-kushner-trump-media-mogul-observer-2016-12</data>
+</edge>
+<edge source="JUSTIN WENIGER" target="RYAN DOHERTY"/>
+<edge source="DAVID J. COONEY" target="DAN COATS"/>
+<edge source="SERYL KUSHNER" target="NICOLE KUSHNER MEYER">
+  <data key="d1">Parent/child</data>
+  <data key="d2">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge source="BOBBY BURCHFIELD" target="DAN COATS"/>
+<edge source="ERIC HOLCOMB" target="KELLYANNE CONWAY">
+  <data key="d1">Conway provided consulting services to Holcomb</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534450-Conway-Kellyanne.html</data>
+</edge>
+<edge source="THOMAS E. WHEELER" target="JEFF SESSIONS">
+  <data key="d1">Sessions appointed Wheeler to Deputy Assistant Attorney General. Wheeler was also appointed head of the DOJ's Civil Rights Division as an Acting Assistant Attorney General.</data>
+  <data key="d2">https://www.nytimes.com/2017/02/28/magazine/jeff-sessions-stephen-bannon-justice-department.html?_r=0 | https://www.buzzfeed.com/zoetillman/heres-who-is-running-the-justice-department-right-now | https://www.justice.gov/crt</data>
+</edge>
+<edge source="MICHAEL MURRAY" target="JEFF SESSIONS">
+  <data key="d1">Counsel to the Deputy Attorney General</data>
+  <data key="d2">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge source="DONALD TRUMP JR." target="ANDRIY ZAIKA">
+  <data key="d1">Met in 2006, when Zaika was head of the Ukrainian Construction Consortium</data>
+  <data key="d2">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge source="DONALD TRUMP JR." target="RUSSELL FLICKER">
+  <data key="d1">Business partners</data>
+  <data key="d2">Nexis</data>
+</edge>
+<edge source="DONALD TRUMP JR." target="IVANKA TRUMP">
+  <data key="d1">Siblings</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD TRUMP JR." target="BONNIE HAYDON">
+  <data key="d1">Father-in-law/son-in-law</data>
+  <data key="d2">Nexis — NYT 11/19/2006</data>
+</edge>
+<edge source="DONALD TRUMP JR." target="VANESSA TRUMP">
+  <data key="d1">Married</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="DONALD TRUMP JR." target="JASON D. GREENBLATT">
+  <data key="d1">Business partners</data>
+  <data key="d2">Nexis</data>
+</edge>
+<edge source="DONALD TRUMP JR." target="JEREMY BLACKBURN"/>
+<edge source="ANDREW BROWN" target="CHRISTOPHER RUDDY"/>
+<edge source="ABDUL RAHMAN AL-ASSIR" target="PAUL MANAFORT">
+  <data key="d1">Manafort secured a loan from al-Assir</data>
+  <data key="d2">https://www.washingtonpost.com/politics/in-business-as-in-politics-trump-adviser-no-stranger-to-controversial-figures/2016/04/26/970db232-08c7-11e6-b283-e79d81c63c1b_story.html?utm_term=.de35331c8594</data>
+</edge>
+<edge source="IGOR SECHIN" target="VLADIMIR PUTIN">
+  <data key="d1">Former deputy prime minister</data>
+  <data key="d2">https://www.ft.com/content/a8f24922-cef4-11e3-9165-00144feabdc0</data>
+</edge>
+<edge source="IGOR SECHIN" target="EDUARD KHUDAYNATOV"/>
+<edge source="DAVID K. BEECKEN" target="DAN COATS"/>
+<edge source="REINCE PRIEBUS" target="MALLORY HUNTER">
+  <data key="d1">Executive assistant</data>
+  <data key="d2">https://www.documentcloud.org/documents/3534136-Hunter-Mallory.html</data>
+</edge>
+<edge source="REINCE PRIEBUS" target="KATIE WALSH">
+  <data key="d1">Former deputy chief of staff</data>
+  <data key="d2">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/ | http://www.politico.com/story/2017/03/trump-deputy-chief-of-staff-katie-walsh-moving-to-outside-political-groups-236706</data>
+</edge>
+<edge source="MICHAEL POMPEO" target="DAVID MURFIN"/>
+<edge source="MICHAEL POMPEO" target="MICHAEL KENDALL"/>
+<edge source="MARK PASQUERELLA" target="JARED KUSHNER"/>
+<edge source="TOM BOSSERT" target="LINDA MCMAHON"/>
+<edge source="WILLIAM G. PETTY JR." target="DAN COATS"/>
+<edge source="KONSTANTIN V. KILIMNIK" target="PAUL MANAFORT"/>
+<edge source="DAVID HAMAMOTO" target="THOMAS J. BARRACK JR."/>
+<edge source="CAROLINE MAY" target="STEPHEN MILLER">
+  <data key="d1">Miller sent tips to May, a Breitbart reporter</data>
+  <data key="d2">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge source="DAVID HOROWITZ" target="STEPHEN MILLER">
+  <data key="d1">"Miller considers Horowitz a mentor," per Politico</data>
+  <data key="d2">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge source="ROBERT F. GRIFFIN" target="KATHLEEN M. MCSWEENEY"/>
+<edge source="DINA POWELL" target="IVANKA TRUMP">
+  <data key="d1">Ivanka Trump "has been leaning on [Powell] ... as a top adviser on policy and staffing," per Politico</data>
+  <data key="d2">http://www.politico.com/story/2017/01/ivanka-trump-goldman-sachs-233234</data>
+</edge>
+<edge source="ELAINE CHAO" target="ANGELA CHAO">
+  <data key="d1">Siblings</data>
+  <data key="d2">https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick</data>
+</edge>
+<edge source="JULIA HAHN" target="STEPHEN MILLER">
+  <data key="d1">Miller sent tips to Hahn, a Breitbart reporter</data>
+  <data key="d2">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge source="GARRETT MURCH" target="JEFF SESSIONS">
+  <data key="d1">Former communications advisor</data>
+  <data key="d2">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992 | https://www.linkedin.com/in/garrett-murch-9800b928</data>
+</edge>
+<edge source="DAVID H. KOCH" target="WILLIAM I. KOCH">
+  <data key="d1">Siblings</data>
+  <data key="d2">http://www.forbes.com/profile/koch/</data>
+</edge>
+<edge source="MARGARET CHIN" target="JARED KUSHNER">
+  <data key="d1">Donor</data>
+  <data key="d2">http://thevillager.com/2013/07/25/the-billionaires-back-margaret-chin-for-city-council/</data>
+</edge>
+<edge source="KEVIN MARINO" target="BILL STEPIEN">
+  <data key="d1">Marino served as Stepien's attorney during the Bridgegate trial</data>
+  <data key="d2">http://www.politico.com/story/2017/01/bill-stepien-donald-trump-christie-233199</data>
+</edge>
+<edge source="VLADIMIR PUTIN" target="ALEXANDER NOVAK">
+  <data key="d1">Energy minister</data>
+  <data key="d2">https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71</data>
+</edge>
+<edge source="STEPHANIE WINSTON WOLKOFF" target="MELANIA TRUMP">
+  <data key="d1">Senior adviser</data>
+  <data key="d2">http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879</data>
+</edge>
+<edge source="PAUL MANAFORT" target="VIKTOR F. YANUKOVYCH">
+  <data key="d1">Manafort ran PR for Yanukovych's campaign</data>
+  <data key="d2">https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html</data>
+</edge>
+<edge source="PAUL MANAFORT" target="RINAT AKHMETOV">
+  <data key="d1">Manafort worked to improve image of Akhmetov's companies</data>
+  <data key="d2">https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html</data>
+</edge>
+<edge source="PAUL MANAFORT" target="DMITRY FIRTASH">
+  <data key="d1">Worked together in bid for site of Drake Hotel in NYC</data>
+  <data key="d2">https://www.washingtonpost.com/politics/in-business-as-in-politics-trump-adviser-no-stranger-to-controversial-figures/2016/04/26/970db232-08c7-11e6-b283-e79d81c63c1b_story.html?utm_term=.de35331c8594</data>
+</edge>
+<edge source="RINAT AKHMETOV" target="VIKTOR F. YANUKOVYCH"/>
+<edge source="PAULO FIGUEIREDO FILHO" target="IVANKA TRUMP">
+  <data key="d1">Lunched together, spawning Trump interest in Rio hotel</data>
+  <data key="d2">http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html</data>
+</edge>
+<edge source="JOSHUA KUSHNER" target="JARED KUSHNER">
+  <data key="d1">Siblings</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="JOSHUA KUSHNER" target="NICOLE KUSHNER MEYER">
+  <data key="d1">Siblings</data>
+  <data key="d2">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge source="IVANKA TRUMP" target="ANDRIY ZAIKA">
+  <data key="d1">Met in 2006, when Zaika was head of the Ukrainian Construction Consortium</data>
+  <data key="d2">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge source="IVANKA TRUMP" target="GRACE MURDOCH">
+  <data key="d1">Former trustee</data>
+  <data key="d2">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge source="IVANKA TRUMP" target="MEHMET ALI YALCINDAG">
+  <data key="d1">Business partners</data>
+  <data key="d2">http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html</data>
+</edge>
+<edge source="IVANKA TRUMP" target="JARED KUSHNER">
+  <data key="d1">Married</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="IVANKA TRUMP" target="ABIGAIL KLEM"/>
+<edge source="MIKE FERGUSON" target="ANDREW BREMBERG">
+  <data key="d1">Bremberg "is a lifelong friend" of Ferguson, a former U.S. House representative, per Stat</data>
+  <data key="d2">https://www.statnews.com/2016/11/15/trump-influencers-health-care/</data>
+</edge>
+<edge source="RYAN ZINKE" target="THOMAS J. BARRACK JR."/>
+<edge source="MELANIA TRUMP" target="LINDSEY REYNOLDS">
+  <data key="d1">Chief of staff</data>
+  <data key="d2">http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879</data>
+</edge>
+<edge source="PETER DAVIS" target="JARED KUSHNER"/>
+<edge source="STEPHEN B. MEISTER" target="JASON D. MEISTER">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://therealdeal.com/issues_articles/whos-jumping-ship/</data>
+</edge>
+<edge source="NICOLE KUSHNER MEYER" target="JARED KUSHNER">
+  <data key="d1">Siblings</data>
+  <data key="d2">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge source="STEPHEN MILLER" target="JEFF SESSIONS">
+  <data key="d1">Former chief of communications</data>
+  <data key="d2">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge source="STEPHEN MILLER" target="SAM NUNBERG">
+  <data key="d1">Friends</data>
+  <data key="d2">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge source="RICHARD SCHMIDT" target="DAN COATS"/>
+<edge source="MATTHEW CALAMARI" target="MATTHEW CALAMARI, JR.">
+  <data key="d1">Parent/child</data>
+  <data key="d2">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0</data>
+</edge>
+<edge source="RYAN DOHERTY" target="JARED KUSHNER">
+  <data key="d1">Friends</data>
+  <data key="d2">http://www.businessinsider.com/jared-kushner-trump-media-mogul-observer-2016-12</data>
+</edge>
+<edge source="JAMES BURNHAM" target="MITT ROMNEY"/>
+<edge source="AVRAM LEBOR" target="JARED KUSHNER">
+  <data key="d1">Kushner hired him for his real estate company</data>
+  <data key="d2">https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
+</edge>
+<edge source="CLIFF SIMS" target="KELLYANNE CONWAY"/>
+<edge source="JEFF SESSIONS" target="AJIT PAI">
+  <data key="d1">Former deputy chief counsel</data>
+  <data key="d2">https://www.fcc.gov/about/leadership/ajit-pai</data>
+</edge>
+<edge source="SAM BROWNBACK" target="AJIT PAI">
+  <data key="d1">Former chief counsel</data>
+  <data key="d2">https://www.fcc.gov/about/leadership/ajit-pai</data>
+</edge>
+<edge source="HELEN FERRE" target="JEB BUSH"/>
+<edge source="BETSY DEVOS" target="RICHARD DEVOS">
+  <data key="d1">Parent/child</data>
+  <data key="d2">General knowledge</data>
+</edge>
+<edge source="BETSY DEVOS" target="ERIK PRINCE">
+  <data key="d1">Siblings</data>
+  <data key="d2">https://theintercept.com/2017/01/17/notorious-mercenary-erik-prince-is-advising-trump-from-the-shadows/</data>
+</edge>
+<edge source="BETSY DEVOS" target="REGINALD J. BROWN"/>
+<edge source="BETSY DEVOS" target="JEB BUSH"/>
+<edge source="JARED KUSHNER" target="ROB SPEYER">
+  <data key="d1">Gave Kushner $50 million to help by a property from his father's company-Tishman Speyer</data>
+  <data key="d2">http://nymag.com/realestate/features/53797/index5.html</data>
+</edge>
+<edge source="JARED KUSHNER" target="ROBERT SOMMER"/>
+<edge source="JARED KUSHNER" target="DAVID WILDSTEIN"/>
+<edge source="MICHAEL FLYNN" target="DAVID SHULKIN"/>
+<edge source="ALEXANDER MASHKEVICH" target="DANIEL RIDLOFF"/>
+</graph></graphml>
